@@ -1,0 +1,20 @@
+name: Suggest a blog
+description: Propose a blog for the list
+title: "Suggest: "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Blog URL
+    validations:
+      required: true
+  - type: input
+    id: who
+    attributes:
+      label: Company or author
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs here
+      description: What it writes about (data, ML, analytics, experimentation) and how often.
