@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
-  <head><title>Data Science and ML Engineering Blogs</title><dateCreated>2026-11-17</dateCreated><ownerName>effectsize.io</ownerName></head>
+  <head><title>Data Science and ML Engineering Blogs</title><dateCreated>2026-11-20</dateCreated><ownerName>effectsize.io</ownerName></head>
   <body>
     <outline text="AI / ML" title="AI / ML">
+      <outline type="rss" text="AIRI" title="AIRI" xmlUrl="https://habr.com/ru/rss/companies/airi/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/airi/articles/"/>
       <outline type="rss" text="Anyverse" title="Anyverse" xmlUrl="https://anyverse.ai/feed/" htmlUrl="https://anyverse.ai/blog/"/>
       <outline type="rss" text="ClearML" title="ClearML" xmlUrl="https://clear.ml/feed" htmlUrl="https://clear.ml/blog"/>
       <outline type="rss" text="Comet" title="Comet" xmlUrl="https://www.comet.com/site/feed/" htmlUrl="https://www.comet.com:443/site/blog/"/>
@@ -13,19 +14,31 @@
       <outline type="rss" text="iMerit" title="iMerit" xmlUrl="https://imerit.ai/feed/" htmlUrl="https://imerit.ai/resources/blog/"/>
       <outline type="rss" text="Kognic (ex-Annotell)" title="Kognic (ex-Annotell)" xmlUrl="https://www.kognic.com/articles/rss.xml" htmlUrl="https://www.kognic.com/articles"/>
       <outline type="rss" text="Microsoft Research" title="Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research/blog/"/>
+      <outline type="rss" text="MWS AI" title="MWS AI" xmlUrl="https://habr.com/ru/rss/companies/mts_ai/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/mts_ai/articles/"/>
       <outline type="rss" text="OpenMined" title="OpenMined" xmlUrl="https://openmined.org/rss.xml" htmlUrl="https://openmined.org/blog/"/>
       <outline type="rss" text="Paperspace" title="Paperspace" xmlUrl="https://blog.paperspace.com/rss/" htmlUrl="https://blog.paperspace.com/"/>
       <outline type="rss" text="Roboflow" title="Roboflow" xmlUrl="https://roboflow.com/blog/rss" htmlUrl="https://roboflow.com/blog"/>
       <outline type="rss" text="Superwise" title="Superwise" xmlUrl="https://superwise.ai/rss.xml" htmlUrl="https://superwise.ai/blog/"/>
+      <outline type="rss" text="Unofficial Google Data Science" title="Unofficial Google Data Science" xmlUrl="https://www.unofficialgoogledatascience.com/feeds/posts/default" htmlUrl="https://www.unofficialgoogledatascience.com/"/>
       <outline type="rss" text="Vespa" title="Vespa" xmlUrl="https://blog.vespa.ai/feed.xml" htmlUrl="https://blog.vespa.ai/"/>
     </outline>
     <outline text="Adtech" title="Adtech">
       <outline type="rss" text="AdRoll" title="AdRoll" xmlUrl="https://tech.nextroll.com/feed.xml" htmlUrl="https://tech.nextroll.com/blog/"/>
+      <outline type="rss" text="Appnexus" title="Appnexus" xmlUrl="https://medium.com/feed/xandr-tech" htmlUrl="https://techblog.appnexus.com/"/>
       <outline type="rss" text="Branch" title="Branch" xmlUrl="https://www.branch.io/feed/" htmlUrl="https://www.branch.io/resources/category/blog/"/>
       <outline type="rss" text="Curalate" title="Curalate" xmlUrl="http://engineering.curalate.com/feed.xml" htmlUrl="http://engineering.curalate.com/"/>
-      <outline type="rss" text="Intent Media" title="Intent Media" xmlUrl="https://intentmedia.com/feed/" htmlUrl="https://intentmedia.com/"/>
+    </outline>
+    <outline text="Banking" title="Banking">
+      <outline type="rss" text="Alfa-Bank" title="Alfa-Bank" xmlUrl="https://habr.com/ru/rss/companies/alfa/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/alfa/articles/"/>
+      <outline type="rss" text="Gazprombank" title="Gazprombank" xmlUrl="https://habr.com/ru/rss/companies/gazprombank/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/gazprombank/articles/"/>
+      <outline type="rss" text="RSHB Digital" title="RSHB Digital" xmlUrl="https://habr.com/ru/rss/companies/rshb/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/rshb/articles/"/>
+      <outline type="rss" text="Sber" title="Sber" xmlUrl="https://habr.com/ru/rss/companies/sberbank/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/sberbank/articles/"/>
+      <outline type="rss" text="T-Bank" title="T-Bank" xmlUrl="https://habr.com/ru/rss/companies/tbank/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/tbank/articles/"/>
+      <outline type="rss" text="VTB" title="VTB" xmlUrl="https://habr.com/ru/rss/companies/vtb/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/vtb/articles/"/>
     </outline>
     <outline text="Classifieds" title="Classifieds">
+      <outline type="rss" text="Avito Tech" title="Avito Tech" xmlUrl="https://habr.com/ru/rss/companies/avito/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/avito/articles/"/>
+      <outline type="rss" text="Housing.com" title="Housing.com" xmlUrl="https://medium.com/feed/engineering-housing" htmlUrl="https://medium.com/engineering-housing"/>
       <outline type="rss" text="REA Group" title="REA Group" xmlUrl="https://www.rea-group.com/category/tech/feed/" htmlUrl="https://www.rea-group.com/category/tech/"/>
     </outline>
     <outline text="Cloud &amp; infra" title="Cloud &amp; infra">
@@ -44,7 +57,6 @@
       <outline type="rss" text="Atomic Object" title="Atomic Object" xmlUrl="https://spin.atomicobject.com/feed/" htmlUrl="https://spin.atomicobject.com/"/>
       <outline type="rss" text="Avenue Code" title="Avenue Code" xmlUrl="https://blog.avenuecode.com/rss.xml" htmlUrl="https://blog.avenuecode.com/"/>
       <outline type="rss" text="bitExpert" title="bitExpert" xmlUrl="https://blog.bitexpert.de/blog/rss.xml" htmlUrl="https://blog.bitexpert.de/"/>
-      <outline type="rss" text="Codecentric" title="Codecentric" xmlUrl="https://www.codecentric.de/rss/feed.xml" htmlUrl="https://www.codecentric.de/wissens-hub/blog"/>
       <outline type="rss" text="Codeminer42" title="Codeminer42" xmlUrl="https://blog.codeminer42.com/feed/" htmlUrl="https://blog.codeminer42.com/"/>
       <outline type="rss" text="Evil Martians" title="Evil Martians" xmlUrl="https://evilmartians.com/chronicles.atom" htmlUrl="https://evilmartians.com/chronicles/"/>
       <outline type="rss" text="Hashrocket" title="Hashrocket" xmlUrl="https://hashrocket.com/blog/posts.rss" htmlUrl="https://hashrocket.com/blog"/>
@@ -55,11 +67,11 @@
       <outline type="rss" text="Thoughtbot" title="Thoughtbot" xmlUrl="https://feed.thoughtbot.com/" htmlUrl="https://thoughtbot.com/blog"/>
       <outline type="rss" text="Toptal" title="Toptal" xmlUrl="https://www.toptal.com/blog.rss" htmlUrl="https://www.toptal.com/blog"/>
       <outline type="rss" text="Viget" title="Viget" xmlUrl="https://www.viget.com/articles/feed.xml" htmlUrl="https://www.viget.com/articles?category=code"/>
+      <outline type="rss" text="Wemake.services" title="Wemake.services" xmlUrl="https://medium.com/feed/wemake-services" htmlUrl="https://medium.com/wemake-services"/>
     </outline>
     <outline text="Dev tools" title="Dev tools">
       <outline type="rss" text="Buildkite" title="Buildkite" xmlUrl="https://buildkite.com/blog.atom" htmlUrl="https://buildkite.com/resources/blog/category/engineering/"/>
       <outline type="rss" text="Datadog" title="Datadog" xmlUrl="https://www.datadoghq.com/blog/engineering/index.xml" htmlUrl="https://www.datadoghq.com/blog/engineering/"/>
-      <outline type="rss" text="DeferPanic" title="DeferPanic" xmlUrl="https://deferpanic.com/feed" htmlUrl="https://deferpanic.com"/>
       <outline type="rss" text="Docker" title="Docker" xmlUrl="https://www.docker.com/feed/" htmlUrl="https://www.docker.com/blog/"/>
       <outline type="rss" text="Dropbox" title="Dropbox" xmlUrl="https://dropbox.tech/feed" htmlUrl="https://dropbox.tech/"/>
       <outline type="rss" text="GitHub" title="GitHub" xmlUrl="https://github.blog/engineering.atom" htmlUrl="https://githubengineering.com/"/>
@@ -67,6 +79,7 @@
       <outline type="rss" text="JetBrains" title="JetBrains" xmlUrl="https://blog.jetbrains.com/feed/" htmlUrl="https://blog.jetbrains.com"/>
       <outline type="rss" text="jOOQ" title="jOOQ" xmlUrl="https://blog.jooq.org/feed/" htmlUrl="https://blog.jooq.org/"/>
       <outline type="rss" text="MongoDB" title="MongoDB" xmlUrl="https://www.mongodb.com/company/blog/rss" htmlUrl="https://www.mongodb.com/company/blog/channel/engineering-blog"/>
+      <outline type="rss" text="Postman" title="Postman" xmlUrl="https://medium.com/feed/better-practices" htmlUrl="https://medium.com/better-practices"/>
       <outline type="rss" text="Pulumi" title="Pulumi" xmlUrl="https://www.pulumi.com/blog/rss.xml" htmlUrl="https://www.pulumi.com/blog/"/>
       <outline type="rss" text="Serverless" title="Serverless" xmlUrl="https://www.serverless.com/blog/rss.xml" htmlUrl="https://www.serverless.com/blog"/>
       <outline type="rss" text="SitePoint" title="SitePoint" xmlUrl="https://www.sitepoint.com/sitepoint.rss" htmlUrl="https://www.sitepoint.com/"/>
@@ -75,7 +88,8 @@
       <outline type="rss" text="TigerBeetle" title="TigerBeetle" xmlUrl="https://tigerbeetle.com/blog/atom.xml" htmlUrl="https://tigerbeetle.com/blog/"/>
     </outline>
     <outline text="E-commerce" title="E-commerce">
-      <outline type="rss" text="Ebay" title="Ebay" xmlUrl="https://www.ebayinc.com/stories/news/rss/" htmlUrl="https://tech.ebayinc.com/"/>
+      <outline type="rss" text="Ebay" title="Ebay" xmlUrl="https://www.ebayinc.com/stories/news/rss/" htmlUrl="https://innovation.ebayinc.com/stories/"/>
+      <outline type="rss" text="Harry's" title="Harry's" xmlUrl="https://medium.com/feed/harrys-engineering" htmlUrl="http://engineering.harrys.com/"/>
       <outline type="rss" text="Kogan.com" title="Kogan.com" xmlUrl="https://devblog.kogan.com/blog?format=rss" htmlUrl="https://devblog.kogan.com/"/>
       <outline type="rss" text="Otto" title="Otto" xmlUrl="https://www.otto.de/jobs/de/blogs/techblog/rss/" htmlUrl="https://www.otto.de/jobs/de/blogs/techblog/"/>
       <outline type="rss" text="Shopify" title="Shopify" xmlUrl="https://shopify.engineering/blog.atom" htmlUrl="https://shopify.engineering/"/>
@@ -89,22 +103,24 @@
       <outline type="rss" text="HackerEarth" title="HackerEarth" xmlUrl="https://engineering.hackerearth.com/rss" htmlUrl="https://engineering.hackerearth.com/"/>
       <outline type="rss" text="Khan Academy" title="Khan Academy" xmlUrl="https://engineering.khanacademy.org/rss" htmlUrl="https://engineering.khanacademy.org/"/>
       <outline type="rss" text="Panorama Education" title="Panorama Education" xmlUrl="https://medium.com/feed/building-panorama-education" htmlUrl="http://engineering.panoramaed.com/"/>
+      <outline type="rss" text="Skyeng" title="Skyeng" xmlUrl="https://habr.com/ru/rss/companies/skyeng/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/skyeng/articles/"/>
       <outline type="rss" text="Udacity" title="Udacity" xmlUrl="https://www.udacity.com/blog/feed/" htmlUrl="https://www.udacity.com/blog/"/>
     </outline>
     <outline text="Fintech" title="Fintech">
       <outline type="rss" text="Feedzai" title="Feedzai" xmlUrl="https://medium.com/feed/feedzaitech" htmlUrl="https://medium.com/feedzaitech"/>
       <outline type="rss" text="GoCardless" title="GoCardless" xmlUrl="https://gocardless.com/content-platform/rss/resources.xml" htmlUrl="https://gocardless.com/resources"/>
       <outline type="rss" text="Jane Street" title="Jane Street" xmlUrl="https://blog.janestreet.com/feed.xml" htmlUrl="https://blog.janestreet.com/"/>
+      <outline type="rss" text="Paypal" title="Paypal" xmlUrl="https://medium.com/feed/paypal-tech" htmlUrl="https://www.paypal-engineering.com/"/>
       <outline type="rss" text="Ramp" title="Ramp" xmlUrl="https://engineering.ramp.com/feed.xml" htmlUrl="https://engineering.ramp.com/"/>
-      <outline type="rss" text="Simple" title="Simple" xmlUrl="https://www.onstartups.com/rss.xml" htmlUrl="https://www.onstartups.com/"/>
       <outline type="rss" text="Stripe" title="Stripe" xmlUrl="https://stripe.com/blog/feed.rss" htmlUrl="https://stripe.com/blog"/>
-      <outline type="rss" text="Transferwise" title="Transferwise" xmlUrl="https://medium.com/feed/wise-engineering" htmlUrl="http://tech.transferwise.com/"/>
       <outline type="rss" text="Two Sigma" title="Two Sigma" xmlUrl="https://www.twosigma.com/feed/" htmlUrl="https://www.twosigma.com/topic/engineering/"/>
       <outline type="rss" text="Wealthfront" title="Wealthfront" xmlUrl="https://eng.wealthfront.com/feed/" htmlUrl="https://eng.wealthfront.com/"/>
     </outline>
     <outline text="Food delivery" title="Food delivery">
       <outline type="rss" text="Deliveroo" title="Deliveroo" xmlUrl="https://deliveroo.engineering/feed.xml" htmlUrl="https://deliveroo.engineering/"/>
       <outline type="rss" text="Grofers" title="Grofers" xmlUrl="https://lambda.blinkit.com/feed" htmlUrl="https://lambda.grofers.com/"/>
+      <outline type="rss" text="Instacart" title="Instacart" xmlUrl="https://tech.instacart.com/feed" htmlUrl="https://tech.instacart.com/"/>
+      <outline type="rss" text="Just Eat" title="Just Eat" xmlUrl="https://medium.com/feed/justeattakeaway-tech" htmlUrl="https://medium.com/justeattakeaway-tech"/>
     </outline>
     <outline text="General" title="General">
       <outline type="rss" text="Apple" title="Apple" xmlUrl="https://machinelearning.apple.com/rss.xml" htmlUrl="https://machinelearning.apple.com/"/>
@@ -116,16 +132,33 @@
       <outline type="rss" text="Fluidinfo" title="Fluidinfo" xmlUrl="https://blogs.fluidinfo.com/feed/" htmlUrl="https://blogs.fluidinfo.com/"/>
       <outline type="rss" text="Freeletics" title="Freeletics" xmlUrl="https://freeletics.engineering/feed.xml" htmlUrl="https://freeletics.engineering/"/>
       <outline type="rss" text="GameChanger" title="GameChanger" xmlUrl="https://tech.gc.com/atom.xml" htmlUrl="https://tech.gc.com/"/>
+      <outline type="rss" text="Groupon" title="Groupon" xmlUrl="https://medium.com/feed/groupon-eng" htmlUrl="https://engineering.groupon.com/"/>
+      <outline type="rss" text="Palantir" title="Palantir" xmlUrl="https://blog.palantir.com/feed" htmlUrl="https://blog.palantir.com/"/>
+      <outline type="rss" text="RetailMeNot" title="RetailMeNot" xmlUrl="https://engineering.ziffmedia.com/feed" htmlUrl="https://medium.com/retailmenot-engineering/"/>
       <outline type="rss" text="Stitch Fix" title="Stitch Fix" xmlUrl="https://multithreaded.stitchfix.com/feed.xml" htmlUrl="https://multithreaded.stitchfix.com/blog/"/>
+      <outline type="rss" text="Strava" title="Strava" xmlUrl="https://medium.com/feed/strava-engineering" htmlUrl="https://medium.com/strava-engineering/"/>
       <outline type="rss" text="Yelp" title="Yelp" xmlUrl="https://engineeringblog.yelp.com/feed.xml" htmlUrl="https://engineeringblog.yelp.com/"/>
     </outline>
     <outline text="HR tech" title="HR tech">
+      <outline type="rss" text="eFounders" title="eFounders" xmlUrl="https://medium.com/feed/unexpected-token" htmlUrl="https://medium.com/unexpected-token"/>
       <outline type="rss" text="Indeed" title="Indeed" xmlUrl="https://engineering.indeedblog.com/feed/" htmlUrl="https://engineering.indeedblog.com/blog/"/>
+      <outline type="rss" text="JobTeaser" title="JobTeaser" xmlUrl="https://medium.com/feed/jobteaser-dev-team" htmlUrl="https://medium.com/jobteaser-dev-team/"/>
+      <outline type="rss" text="XING" title="XING" xmlUrl="https://tech.new-work.se/feed" htmlUrl="https://tech.xing.com/"/>
+    </outline>
+    <outline text="Hardware" title="Hardware">
+      <outline type="rss" text="SberDevices" title="SberDevices" xmlUrl="https://habr.com/ru/rss/companies/sberdevices/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/sberdevices/articles/"/>
     </outline>
     <outline text="Healthtech" title="Healthtech">
+      <outline type="rss" text="Benchling" title="Benchling" xmlUrl="https://benchling.engineering/feed" htmlUrl="https://benchling.engineering/"/>
       <outline type="rss" text="Cerner" title="Cerner" xmlUrl="https://engineering.cerner.com/index.xml" htmlUrl="https://engineering.cerner.com/"/>
+      <outline type="rss" text="Practo" title="Practo" xmlUrl="https://medium.com/feed/practo-engineering" htmlUrl="https://medium.com/practo-engineering"/>
+    </outline>
+    <outline text="Manufacturing" title="Manufacturing">
+      <outline type="rss" text="EVRAZ" title="EVRAZ" xmlUrl="https://habr.com/ru/rss/companies/evraz/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/evraz/articles/"/>
     </outline>
     <outline text="Marketplace" title="Marketplace">
+      <outline type="rss" text="Airbnb" title="Airbnb" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering"/>
+      <outline type="rss" text="BlaBlaCar" title="BlaBlaCar" xmlUrl="https://medium.com/feed/blablacar" htmlUrl="https://medium.com/blablacar"/>
       <outline type="rss" text="Finn.no" title="Finn.no" xmlUrl="http://tech.finn.no/atom.xml" htmlUrl="http://tech.finn.no/"/>
       <outline type="rss" text="Grab" title="Grab" xmlUrl="https://engineering.grab.com/feed.xml" htmlUrl="https://engineering.grab.com/"/>
       <outline type="rss" text="Mercari" title="Mercari" xmlUrl="https://engineering.mercari.com/blog/feed.xml" htmlUrl="https://engineering.mercari.com/en/blog/"/>
@@ -136,16 +169,23 @@
     <outline text="Media streaming" title="Media streaming">
       <outline type="rss" text="Bandcamp" title="Bandcamp" xmlUrl="https://bandcamptech.wordpress.com/feed/" htmlUrl="https://bandcamptech.wordpress.com/"/>
       <outline type="rss" text="BBC" title="BBC" xmlUrl="https://medium.com/feed/bbc-product-technology" htmlUrl="https://medium.com/bbc-design-engineering/"/>
-      <outline type="rss" text="Prime Video" title="Prime Video" xmlUrl="https://www.aboutamazon.com/rss/feed.rss" htmlUrl="https://www.aboutamazon.com/what-we-do/entertainment"/>
+      <outline type="rss" text="Deezer" title="Deezer" xmlUrl="https://medium.com/feed/deezer-engineering" htmlUrl="https://medium.com/deezer-engineering"/>
+      <outline type="rss" text="ivi" title="ivi" xmlUrl="https://habr.com/ru/rss/companies/ivi/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/ivi/articles/"/>
+      <outline type="rss" text="Netflix" title="Netflix" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com/"/>
       <outline type="rss" text="Soundcloud" title="Soundcloud" xmlUrl="https://developers.soundcloud.com/blog/blog.rss" htmlUrl="https://developers.soundcloud.com/blog/"/>
       <outline type="rss" text="Spotify" title="Spotify" xmlUrl="https://engineering.atspotify.com/feed" htmlUrl="https://labs.spotify.com/"/>
+      <outline type="rss" text="Spotify Confidence" title="Spotify Confidence" xmlUrl="https://confidence.spotify.com/feed.xml" htmlUrl="https://confidence.spotify.com/blog"/>
+      <outline type="rss" text="Zvuk" title="Zvuk" xmlUrl="https://habr.com/ru/rss/companies/zvuk/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/zvuk/articles/"/>
     </outline>
     <outline text="Mobility" title="Mobility">
+      <outline type="rss" text="Citydrive" title="Citydrive" xmlUrl="https://habr.com/ru/rss/companies/citydrive/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/citydrive/articles/"/>
+      <outline type="rss" text="Citymobil" title="Citymobil" xmlUrl="https://habr.com/ru/rss/companies/citymobil/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/citymobil/articles/"/>
       <outline type="rss" text="Lyft" title="Lyft" xmlUrl="https://eng.lyft.com/feed" htmlUrl="https://eng.lyft.com/"/>
       <outline type="rss" text="TrueCar" title="TrueCar" xmlUrl="https://medium.com/feed/driven-by-code" htmlUrl="https://www.drivenbycode.com/"/>
     </outline>
     <outline text="News media" title="News media">
       <outline type="rss" text="Guardian" title="Guardian" xmlUrl="https://www.theguardian.com/info/series/engineering-blog/rss" htmlUrl="https://theguardian.engineering/blog"/>
+      <outline type="rss" text="New York Times" title="New York Times" xmlUrl="https://open.nytimes.com/feed" htmlUrl="https://open.blogs.nytimes.com"/>
     </outline>
     <outline text="Open source" title="Open source">
       <outline type="rss" text="Mozilla" title="Mozilla" xmlUrl="https://blog.mozilla.org/en/feed/" htmlUrl="https://blog.mozilla.org/en/"/>
@@ -155,7 +195,6 @@
       <outline type="rss" text="Android" title="Android" xmlUrl="https://developer.android.com/static/blog/atom.xml" htmlUrl="https://android-developers.googleblog.com/"/>
       <outline type="rss" text="Blender" title="Blender" xmlUrl="https://code.blender.org/feed/" htmlUrl="https://code.blender.org/"/>
       <outline type="rss" text="Bootstrap.com" title="Bootstrap.com" xmlUrl="https://blog.getbootstrap.com/feed.xml" htmlUrl="https://blog.getbootstrap.com/"/>
-      <outline type="rss" text="Crystal" title="Crystal" xmlUrl="https://crystal-lang.org/feed.xml" htmlUrl="https://crystal-lang.org/"/>
       <outline type="rss" text="Facebook AI Research" title="Facebook AI Research" xmlUrl="https://engineering.fb.com/feed/" htmlUrl="https://engineering.fb.com/category/ai-research/"/>
       <outline type="rss" text="FreshRSS" title="FreshRSS" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://freshrss.org"/>
       <outline type="rss" text="Hypriot" title="Hypriot" xmlUrl="https://blog.hypriot.com/index.xml" htmlUrl="https://blog.hypriot.com/"/>
@@ -172,11 +211,12 @@
       <outline type="rss" text="TensorFlow" title="TensorFlow" xmlUrl="https://blog.tensorflow.org/feeds/posts/default" htmlUrl="https://blog.tensorflow.org/"/>
     </outline>
     <outline text="Publications and communities" title="Publications and communities">
+      <outline type="rss" text="Daily JS" title="Daily JS" xmlUrl="https://medium.com/feed/dailyjs" htmlUrl="https://medium.com/dailyjs"/>
       <outline type="rss" text="Datafloq" title="Datafloq" xmlUrl="https://datafloq.com/feed/" htmlUrl="https://datafloq.com/course/read-an-input-file-with-cobol/"/>
       <outline type="rss" text="Distill" title="Distill" xmlUrl="https://distill.pub/rss.xml" htmlUrl="https://distill.pub/"/>
       <outline type="rss" text="Hanami Mastery" title="Hanami Mastery" xmlUrl="https://hanamimastery.com/feed.xml" htmlUrl="https://hanamimastery.com"/>
       <outline type="rss" text="High Scalability" title="High Scalability" xmlUrl="https://highscalability.com/rss/" htmlUrl="https://highscalability.com/"/>
-      <outline type="rss" text="Lambda the Ultimate" title="Lambda the Ultimate" xmlUrl="http://lambda-the-ultimate.org/rss.xml" htmlUrl="http://lambda-the-ultimate.org/"/>
+      <outline type="rss" text="KDnuggets" title="KDnuggets" xmlUrl="https://www.kdnuggets.com/feed/" htmlUrl="https://www.kdnuggets.com/news/index.html"/>
       <outline type="rss" text="Machine Learning Mastery" title="Machine Learning Mastery" xmlUrl="https://feeds.feedburner.com/MachineLearningMastery" htmlUrl="https://machinelearningmastery.com/blog/"/>
       <outline type="rss" text="Nordic APIs" title="Nordic APIs" xmlUrl="https://nordicapis.com/feed/" htmlUrl="https://nordicapis.com/blog/"/>
       <outline type="rss" text="NSHipster" title="NSHipster" xmlUrl="https://nshipster.com/feed.xml" htmlUrl="https://nshipster.com/"/>
@@ -188,6 +228,10 @@
       <outline type="rss" text="The Daily WTF" title="The Daily WTF" xmlUrl="https://feeds.feedburner.com/TheDailyWtf" htmlUrl="https://thedailywtf.com/"/>
       <outline type="rss" text="The Gradient" title="The Gradient" xmlUrl="https://thegradient.pub/rss/" htmlUrl="https://thegradient.pub/"/>
       <outline type="rss" text="Towards Data Science" title="Towards Data Science" xmlUrl="https://towardsdatascience.com/feed/" htmlUrl="https://towardsdatascience.com/"/>
+    </outline>
+    <outline text="Real estate" title="Real estate">
+      <outline type="rss" text="Cian" title="Cian" xmlUrl="https://habr.com/ru/rss/companies/cian/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/cian/articles/"/>
+      <outline type="rss" text="Domclick" title="Domclick" xmlUrl="https://habr.com/ru/rss/companies/domclick/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/domclick/articles/"/>
     </outline>
     <outline text="Researchers and practitioners" title="Researchers and practitioners">
       <outline type="rss" text="Aaron Patterson" title="Aaron Patterson" xmlUrl="https://tenderlovemaking.com/atom.xml" htmlUrl="https://tenderlovemaking.com/"/>
@@ -265,8 +309,11 @@
       <outline type="rss" text="Jessie Frazelle" title="Jessie Frazelle" xmlUrl="https://blog.jessfraz.com/index.xml" htmlUrl="https://blog.jessfraz.com/"/>
       <outline type="rss" text="Joel Spolsky" title="Joel Spolsky" xmlUrl="https://www.joelonsoftware.com/feed/" htmlUrl="https://www.joelonsoftware.com/"/>
     </outline>
+    <outline text="Retail" title="Retail">
+      <outline type="rss" text="Magnit Tech" title="Magnit Tech" xmlUrl="https://habr.com/ru/rss/companies/magnit/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/magnit/articles/"/>
+      <outline type="rss" text="X5 Tech" title="X5 Tech" xmlUrl="https://habr.com/ru/rss/companies/X5Tech/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/X5Tech/articles/"/>
+    </outline>
     <outline text="SaaS B2B" title="SaaS B2B">
-      <outline type="rss" text="Argonaut" title="Argonaut" xmlUrl="https://www.warpbuild.com/legal/rss.xml" htmlUrl="https://www.warpbuild.com/"/>
       <outline type="rss" text="Askomputer" title="Askomputer" xmlUrl="https://blog.askomputer.pl/feed/" htmlUrl="https://blog.askomputer.pl"/>
       <outline type="rss" text="Bazaarvoice" title="Bazaarvoice" xmlUrl="https://blog.developer.bazaarvoice.com/feed/" htmlUrl="https://blog.developer.bazaarvoice.com/"/>
       <outline type="rss" text="BetterWorks" title="BetterWorks" xmlUrl="https://engineering.betterworks.com/atom.xml" htmlUrl="https://engineering.betterworks.com/"/>
@@ -277,7 +324,10 @@
       <outline type="rss" text="FastMail" title="FastMail" xmlUrl="https://www.fastmail.com/blog/feed.xml" htmlUrl="https://www.fastmail.com/blog/"/>
       <outline type="rss" text="GoSquared" title="GoSquared" xmlUrl="https://www.gosquared.com/blog/feed" htmlUrl="https://www.gosquared.com/blog/category/engineering"/>
       <outline type="rss" text="Haptik" title="Haptik" xmlUrl="https://www.haptik.ai/tech/rss.xml" htmlUrl="https://www.haptik.ai/tech"/>
+      <outline type="rss" text="Helpshift" title="Helpshift" xmlUrl="https://medium.com/feed/helpshift-engineering" htmlUrl="https://medium.com/helpshift-engineering/"/>
+      <outline type="rss" text="Hootsuite" title="Hootsuite" xmlUrl="https://medium.com/feed/hootsuite-engineering" htmlUrl="http://code.hootsuite.com/"/>
       <outline type="rss" text="HubSpot" title="HubSpot" xmlUrl="https://product.hubspot.com/blog/rss.xml" htmlUrl="https://product.hubspot.com/blog/topic/engineering"/>
+      <outline type="rss" text="Kontur" title="Kontur" xmlUrl="https://habr.com/ru/rss/companies/skbkontur/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/skbkontur/articles/"/>
       <outline type="rss" text="Localytics" title="Localytics" xmlUrl="https://eng.localytics.com/rss/" htmlUrl="https://eng.localytics.com/"/>
       <outline type="rss" text="MapTiler" title="MapTiler" xmlUrl="https://www.maptiler.com/news/feed/posts.xml" htmlUrl="https://www.maptiler.com/news/"/>
       <outline type="rss" text="Okta" title="Okta" xmlUrl="https://developer.okta.com/feed.xml" htmlUrl="https://developer.okta.com/blog/"/>
@@ -294,8 +344,13 @@
       <outline type="rss" text="Timescale" title="Timescale" xmlUrl="https://www.tigerdata.com/blog/rss" htmlUrl="https://www.tigerdata.com/blog"/>
       <outline type="rss" text="Twilio" title="Twilio" xmlUrl="https://www.twilio.com/en-us/blog.feed.xml" htmlUrl="https://www.twilio.com/en-us/blog"/>
       <outline type="rss" text="Wingify" title="Wingify" xmlUrl="https://engineering.wingify.com/atom.xml" htmlUrl="https://engineering.wingify.com/"/>
+      <outline type="rss" text="Yammer" title="Yammer" xmlUrl="https://medium.com/feed/yammer-engineering" htmlUrl="https://medium.com/yammer-engineering"/>
       <outline type="rss" text="Zapier" title="Zapier" xmlUrl="https://zapier.com/blog/feeds/latest/" htmlUrl="https://zapier.com/blog/categories/engineering-insights/"/>
       <outline type="rss" text="Zendesk" title="Zendesk" xmlUrl="https://zendesk.engineering/feed" htmlUrl="https://medium.com/zendesk-engineering"/>
+    </outline>
+    <outline text="Search engine" title="Search engine">
+      <outline type="rss" text="2GIS" title="2GIS" xmlUrl="https://habr.com/ru/rss/companies/2gis/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/2gis/articles/"/>
+      <outline type="rss" text="Yandex" title="Yandex" xmlUrl="https://habr.com/ru/rss/companies/yandex/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/yandex/articles/"/>
     </outline>
     <outline text="Security" title="Security">
       <outline type="rss" text="Auth0" title="Auth0" xmlUrl="https://auth0.com/blog/rss.xml" htmlUrl="https://auth0.com/blog/"/>
@@ -306,17 +361,29 @@
       <outline type="rss" text="OpenDNS" title="OpenDNS" xmlUrl="https://umbrella.cisco.com/feed" htmlUrl="https://umbrella.cisco.com/blog"/>
     </outline>
     <outline text="Social" title="Social">
+      <outline type="rss" text="Badoo" title="Badoo" xmlUrl="https://medium.com/feed/bumble-tech" htmlUrl="https://techblog.badoo.com/"/>
       <outline type="rss" text="Discord" title="Discord" xmlUrl="https://discord.com/blog/rss.xml" htmlUrl="https://discord.com/blog/"/>
       <outline type="rss" text="Facebook" title="Facebook" xmlUrl="https://engineering.fb.com/feed/" htmlUrl="https://engineering.fb.com/"/>
       <outline type="rss" text="Flickr" title="Flickr" xmlUrl="https://code.flickr.net/feed/" htmlUrl="https://code.flickr.net/"/>
       <outline type="rss" text="Flipboard" title="Flipboard" xmlUrl="https://engineering.flipboard.com/feed.xml" htmlUrl="https://engineering.flipboard.com/"/>
       <outline type="rss" text="Foursquare" title="Foursquare" xmlUrl="https://foursquare.com/feed/" htmlUrl="https://foursquare.com/resources/#blog"/>
+      <outline type="rss" text="Medium" title="Medium" xmlUrl="https://medium.engineering/feed" htmlUrl="https://medium.com/medium-eng"/>
+      <outline type="rss" text="Nextdoor" title="Nextdoor" xmlUrl="https://engblog.nextdoor.com/feed" htmlUrl="https://engblog.nextdoor.com/"/>
+      <outline type="rss" text="Pinterest" title="Pinterest" xmlUrl="https://medium.com/feed/@Pinterest_Engineering" htmlUrl="https://medium.com/@Pinterest_Engineering"/>
       <outline type="rss" text="Reddit" title="Reddit" xmlUrl="https://redditinc.com/news/rss.xml" htmlUrl="https://redditinc.com/news"/>
       <outline type="rss" text="Tinder" title="Tinder" xmlUrl="https://medium.com/feed/tinder" htmlUrl="https://lifeattinder.com/blog"/>
       <outline type="rss" text="Tumblr" title="Tumblr" xmlUrl="https://engineering.tumblr.com/rss" htmlUrl="https://engineering.tumblr.com/"/>
+      <outline type="rss" text="VK" title="VK" xmlUrl="https://habr.com/ru/rss/companies/vk/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/vk/articles/"/>
       <outline type="rss" text="Yahoo" title="Yahoo" xmlUrl="https://yahooeng.tumblr.com/rss" htmlUrl="https://yahooeng.tumblr.com/"/>
     </outline>
+    <outline text="Telecom" title="Telecom">
+      <outline type="rss" text="Beeline" title="Beeline" xmlUrl="https://habr.com/ru/rss/companies/beeline_tech/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/beeline_tech/articles/"/>
+      <outline type="rss" text="MegaFon" title="MegaFon" xmlUrl="https://habr.com/ru/rss/companies/megafon/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/megafon/articles/"/>
+      <outline type="rss" text="MTS" title="MTS" xmlUrl="https://habr.com/ru/rss/companies/ru_mts/articles/?fl=ru" htmlUrl="https://habr.com/ru/companies/ru_mts/articles/"/>
+    </outline>
     <outline text="Travel" title="Travel">
+      <outline type="rss" text="Expedia" title="Expedia" xmlUrl="https://medium.com/feed/expedia-group-tech" htmlUrl="https://medium.com/expedia-group-tech"/>
+      <outline type="rss" text="Skyscanner" title="Skyscanner" xmlUrl="https://medium.com/feed/@SkyscannerEng" htmlUrl="http://codevoyagers.com/"/>
       <outline type="rss" text="Trivago" title="Trivago" xmlUrl="https://tech.trivago.com/rss.xml" htmlUrl="https://tech.trivago.com/"/>
     </outline>
     <outline text="Universities and labs" title="Universities and labs">

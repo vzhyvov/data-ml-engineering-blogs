@@ -1,493 +1,501 @@
-name,url,feed_url,type,industry,cases_on_effectsize
-8th Light,https://8thlight.com/insights//,https://8thlight.com/insights/feed/rss.xml,company,Consulting,0
-99designs,https://99designs.com/blog/engineering/,,company,Marketplace,0
-Addepar,https://medium.com/build-addepar,,company,Fintech,1
-Adesso,https://www.adesso.de/de/news/blog/index.jsp,https://www.adesso.de/de/news/blog/blog-rss.xml,company,Consulting,0
-AdRoll,https://tech.nextroll.com/blog/,https://tech.nextroll.com/feed.xml,company,Adtech,0
-Advanced Web Machinery,https://advancedweb.hu/,https://advancedweb.hu/atom.xml,company,Consulting,0
-Affinity,https://www.affinity.co/resources/blog,,company,SaaS B2B,0
-Affirm,https://tech.affirm.com/,,company,Fintech,5
-Airbnb,https://medium.com/airbnb-engineering,,company,Marketplace,27
-Algolia,https://www.algolia.com/blog,,company,SaaS B2B,18
-Allegro,https://allegro.tech/,,company,E-commerce,2
-Amazon,https://developer.amazon.com:443/apps-and-games/blogs,,company,Cloud & infra,0
-Amazon Science,https://www.amazon.science/blog?f0=0000016e-2fb1-d205-a5ef-afb9d52c0000&f0=0000016e-2ff0-da81-a5ef-3ff057f10000&f0=0000016e-2ff1-d205-a5ef-aff9651e0000,,company,AI / ML,0
-Anvil,https://www.useanvil.com/blog/engineering/,,company,SaaS B2B,0
-Anyverse,https://anyverse.ai/blog/,https://anyverse.ai/feed/,company,AI / ML,0
-Apple,https://machinelearning.apple.com/,https://machinelearning.apple.com/rss.xml,company,General,0
-Appnexus,https://techblog.appnexus.com/,,company,Adtech,0
-Aquarium Learning,https://medium.com/aquarium-learning,,company,AI / ML,0
-Argonaut,https://www.warpbuild.com/,https://www.warpbuild.com/legal/rss.xml,company,SaaS B2B,0
-Arkency,https://blog.arkency.com/,https://blog.arkency.com/feed.xml,company,Consulting,0
-Artsy,https://artsy.github.io/,https://artsy.github.io/feed,company,General,0
-Asana,https://asana.com/inside-asana/engineering-spotlight,,company,SaaS B2B,3
-Askomputer,https://blog.askomputer.pl,https://blog.askomputer.pl/feed/,company,SaaS B2B,0
-ASOS,https://medium.com/asos-techblog,,company,E-commerce,3
-Atlassian,https://atlassianblog.wpengine.com/,,company,SaaS B2B,7
-Atomic Object,https://spin.atomicobject.com/,https://spin.atomicobject.com/feed/,company,Consulting,0
-Auth0,https://auth0.com/blog/,https://auth0.com/blog/rss.xml,company,Security,0
-Auto1,https://auto1.tech,,company,Mobility,0
-Avenue Code,https://blog.avenuecode.com/,https://blog.avenuecode.com/rss.xml,company,Consulting,0
-AWS,https://aws.amazon.com/blogs/aws/,https://aws.amazon.com/blogs/aws/feed/,company,Cloud & infra,0
-Axeploit,https://axeploit.com/blog,https://axeploit.com/feed.xml,company,Security,0
-Babbel,https://www.babbel.com/en/magazine/category/babbel-bytes,,company,Edtech,0
-Backtrace,https://backtrace.io/blog,,company,Dev tools,0
-Badoo,https://techblog.badoo.com/,,company,Social,0
-Baidu Research,http://research.baidu.com/Blog,,company,AI / ML,0
-Bandcamp,https://bandcamptech.wordpress.com/,https://bandcamptech.wordpress.com/feed/,company,Media streaming,0
-Base,https://www.zendesk.es/company/,,company,SaaS B2B,0
-Bazaarvoice,https://blog.developer.bazaarvoice.com/,https://blog.developer.bazaarvoice.com/feed/,company,SaaS B2B,0
-BBC,https://medium.com/bbc-design-engineering/,https://medium.com/feed/bbc-product-technology,company,Media streaming,0
-Bee42,https://bee42.com/de/blog,,company,Consulting,0
-Benchling,https://benchling.engineering/,,company,Healthtech,0
-BetterWorks,https://engineering.betterworks.com/,https://engineering.betterworks.com/atom.xml,company,SaaS B2B,0
-bitExpert,https://blog.bitexpert.de/,https://blog.bitexpert.de/blog/rss.xml,company,Consulting,0
-Bitly,http://word.bitly.com/,,company,SaaS B2B,0
-BitTorrent,https://www.bittorrent.com/blog/category/engineering/,,company,Open source,0
-BlaBlaCar,https://medium.com/blablacar,,company,Marketplace,6
-Blacklane,https://medium.com/blacklane-engineering,,company,Mobility,0
-Bloomberg,https://www.techatbloomberg.com/blog/#2,,company,News media,0
-Bohops,https://bohops.com/,https://bohops.com/feed/,company,Security,0
-Booking.com,https://blog.booking.com/,,company,Travel,3
-Branch,https://www.branch.io/resources/category/blog/,https://www.branch.io/feed/,company,Adtech,0
-Brandwatch,https://www.brandwatch.com/,https://www.brandwatch.com/feed/,company,SaaS B2B,0
-Buildkite,https://buildkite.com/resources/blog/category/engineering/,https://buildkite.com/blog.atom,company,Dev tools,0
-Canva,https://www.canva.dev/blog/engineering/,https://www.canva.dev/blog/engineering/feed.xml,company,SaaS B2B,10
-Capgemini,https://capgemini.github.io/,,company,Consulting,0
-Carbon Five,https://www.westmonroe.com/,,company,Consulting,0
-Cerner,https://engineering.cerner.com/,https://engineering.cerner.com/index.xml,company,Healthtech,0
-ClearML,https://clear.ml/blog,https://clear.ml/feed,company,AI / ML,0
-Cleartrip,https://medium.com/cleartrip,,company,Travel,0
-Clever,https://engineering.clever.com/,https://engineering.clever.com/feed/,company,Edtech,0
-Close,https://making.close.com/,,company,SaaS B2B,0
-Cloudera,https://www.cloudera.com/blog.html,,company,SaaS B2B,0
-Cloudflare,https://blog.cloudflare.com/,https://blog.cloudflare.com/rss,company,Cloud & infra,0
-Cloudscaling,https://cloudscaling.com/blog/,,company,Cloud & infra,0
-ClusterHQ,https://king138cuan.com/account/register,,company,Dev tools,0
-Codecentric,https://www.codecentric.de/wissens-hub/blog,https://www.codecentric.de/rss/feed.xml,company,Consulting,0
-Codelitt,https://www.codelitt.com/blog,,company,Consulting,0
-Codeminer42,https://blog.codeminer42.com/,https://blog.codeminer42.com/feed/,company,Consulting,0
-CodeName One,https://www.codenameone.com/blog/,,company,Dev tools,0
-Codeship,https://www.cloudbees.com/blog,,company,Dev tools,0
-Comet,https://www.comet.com:443/site/blog/,https://www.comet.com/site/feed/,company,AI / ML,0
-Compass,https://medium.com/compass-true-north/,,company,Real estate,0
-Confluent,https://www.confluent.io/blog/,https://www.confluent.io/rss.xml,company,SaaS B2B,0
-Contentful,https://www.contentful.com/blog/,,company,SaaS B2B,0
-Cookpad,https://sourcediving.com/,,company,Social,0
-Coursera,https://blog.coursera.org/,https://blog.coursera.org/feed/,company,Edtech,1
-Criteo,https://medium.com/criteo-labs,,company,Adtech,9
-Cryptsus,https://cryptsus.com/blog/,https://cryptsus.com/blog/feed.rss,company,Security,0
-Curalate,http://engineering.curalate.com/,http://engineering.curalate.com/feed.xml,company,Adtech,0
-Dailymotion,http://engineering.dailymotion.com/,,company,Media streaming,0
-Databricks,https://www.databricks.com/blog,https://www.databricks.com/feed,company,SaaS B2B,20
-Datadog,https://www.datadoghq.com/blog/engineering/,https://www.datadoghq.com/blog/engineering/index.xml,company,Dev tools,0
-Dataiku,https://www.dataiku.com/blog,,company,AI / ML,0
-Dataloop,https://dataloop.ai/blog/,,company,AI / ML,0
-DataRobot,https://www.datarobot.com/blog/,https://www.datarobot.com/blog/feed/,company,AI / ML,0
-DeepMind,https://deepmind.google/blog/,,company,AI / ML,0
-Deezer,https://medium.com/deezer-engineering,,company,Media streaming,0
-DeferPanic,https://deferpanic.com,https://deferpanic.com/feed,company,Dev tools,0
-Deliveroo,https://deliveroo.engineering/,https://deliveroo.engineering/feed.xml,company,Food delivery,4
-DigitalOcean,https://www.digitalocean.com/blog,https://www.digitalocean.com/rss/blog.atom,company,Cloud & infra,0
-Discord,https://discord.com/blog/,https://discord.com/blog/rss.xml,company,Social,4
-Docker,https://www.docker.com/blog/,https://www.docker.com/feed/,company,Dev tools,0
-Docler,https://medium.com/docler-engineering,,company,Gaming,0
-Docutain,https://sdk.docutain.com/blog,,company,SaaS B2B,0
-DoorDash,https://careersatdoordash.com/engineering-blog/,,company,Food delivery,61
-Doximity,https://technology.doximity.com:443/,,company,Healthtech,0
-Drivy,https://fr.getaround.com/careers,,company,Mobility,0
-Dropbox,https://dropbox.tech/,https://dropbox.tech/feed,company,Dev tools,0
-Duolingo,https://blog.duolingo.com/hub/engineering/,https://blog.duolingo.com/rss/,company,Edtech,7
-DVC,https://dvc.org/blog/,https://dvc.org/feed/,company,AI / ML,0
-Ebay,https://tech.ebayinc.com/,https://www.ebayinc.com/stories/news/rss/,company,E-commerce,11
-Edilec,https://edilec.com/blog/,https://edilec.com/feed.xml,company,General,0
-eFounders,https://medium.com/unexpected-token,,company,HR tech,0
-Elastic,https://www.elastic.co/blog,,company,Dev tools,0
-Encord,https://encord.com/blog/,,company,AI / ML,0
-Envato,https://elements.envato.com/learn/,,company,Dev tools,0
-Erlang Solutions,https://www.erlang-solutions.com/blog/,,company,Consulting,0
-Etsy,https://codeascraft.com/,,company,E-commerce,18
-Europace,https://europace.de/,https://europace.de/feed/,company,General,0
-Evernote,https://evernote.com/en-us/blog,,company,SaaS B2B,0
-Evil Martians,https://evilmartians.com/chronicles/,https://evilmartians.com/chronicles.atom,company,Consulting,0
-Expedia,https://medium.com/expedia-group-tech,,company,Travel,19
-Facebook,https://engineering.fb.com/,https://engineering.fb.com/feed/,company,Social,24
-FastMail,https://www.fastmail.com/blog/,https://www.fastmail.com/blog/feed.xml,company,SaaS B2B,0
-Feedly,https://feedly.com/resources,,company,SaaS B2B,0
-Feedzai,https://medium.com/feedzaitech,https://medium.com/feed/feedzaitech,company,Fintech,4
-Figma,https://www.figma.com/blog/engineering/,,company,SaaS B2B,0
-Findmypast,https://tech.findmypast.com/,https://tech.findmypast.com/feed.xml,company,General,0
-Finn.no,http://tech.finn.no/,http://tech.finn.no/atom.xml,company,Marketplace,0
-Flickr,https://code.flickr.net/,https://code.flickr.net/feed/,company,Social,0
-Flip,https://tech.flip.id/,https://tech.flip.id/rss/,company,General,0
-Flipboard,https://engineering.flipboard.com/,https://engineering.flipboard.com/feed.xml,company,Social,0
-Flipkart,https://tech.flipkart.com/,,company,E-commerce,0
-Fluidinfo,https://blogs.fluidinfo.com/,https://blogs.fluidinfo.com/feed/,company,General,0
-Foursquare,https://foursquare.com/resources/#blog,https://foursquare.com/feed/,company,Social,0
-Freeletics,https://freeletics.engineering/,https://freeletics.engineering/feed.xml,company,General,0
-Freshworks,https://medium.com/freshworks-engineering-blog,,company,SaaS B2B,0
-Galois,https://www.galois.com/blog,,company,Consulting,0
-GameChanger,https://tech.gc.com/,https://tech.gc.com/atom.xml,company,General,0
-GitHub,https://githubengineering.com/,https://github.blog/engineering.atom,company,Dev tools,0
-GitHub Old,https://github.blog/engineering/,https://github.blog/feed/,company,Dev tools,0
-GoCardless,https://gocardless.com/resources,https://gocardless.com/content-platform/rss/resources.xml,company,Fintech,0
-GoDaddy,https://godaddy.github.io/engineering/,,company,Cloud & infra,0
-Gojek,https://blog.gojek.io/private/?r=%2F,,company,Mobility,2
-Google Developers,https://developers.googleblog.com/,,company,Cloud & infra,0
-Google Research,https://research.google/blog/,,company,AI / ML,0
-Google: AI,https://blog.google/innovation-and-ai/technology/ai/,,company,AI / ML,0
-GoSquared,https://www.gosquared.com/blog/category/engineering,https://www.gosquared.com/blog/feed,company,SaaS B2B,0
-Grab,https://engineering.grab.com/,https://engineering.grab.com/feed.xml,company,Marketplace,22
-Grammarly,https://www.grammarly.com/blog/engineering/,,company,SaaS B2B,2
-Grofers,https://lambda.grofers.com/,https://lambda.blinkit.com/feed,company,Food delivery,0
-Groupon,https://engineering.groupon.com/,,company,General,1
-Guardian,https://theguardian.engineering/blog,https://www.theguardian.com/info/series/engineering-blog/rss,company,News media,0
-Gusto,http://engineering.gusto.com/,,company,HR tech,7
-H2O.ai,https://h2o.ai/blog,https://h2o.ai/blog/feed,company,AI / ML,0
-HackerEarth,https://engineering.hackerearth.com/,https://engineering.hackerearth.com/rss,company,Edtech,0
-Haptik,https://www.haptik.ai/tech,https://www.haptik.ai/tech/rss.xml,company,SaaS B2B,0
-Harness,https://engineering.harness.io/,,company,Dev tools,0
-Harry's,http://engineering.harrys.com/,,company,E-commerce,0
-HashiCorp,https://www.hashicorp.com/en/blog,,company,Dev tools,0
-Hashrocket,https://hashrocket.com/blog,https://hashrocket.com/blog/posts.rss,company,Consulting,0
-Helpshift,https://medium.com/helpshift-engineering/,,company,SaaS B2B,0
-Heroku,https://www.heroku.com/blog/category/engineering/,,company,SaaS B2B,0
-Honeybadger,https://www.honeybadger.io/blog/,,company,Dev tools,0
-Hootsuite,http://code.hootsuite.com/,,company,SaaS B2B,0
-Hostinger,https://www.hostinger.com/blog/engineering/,https://www.hostinger.com/blog/feed/,company,Cloud & infra,0
-Housing.com,https://medium.com/engineering-housing,,company,Classifieds,0
-HubbleHQ,https://hubblehq.com/blog,,company,SaaS B2B,0
-HubSpot,https://product.hubspot.com/blog/topic/engineering,https://product.hubspot.com/blog/rss.xml,company,SaaS B2B,4
-Hugging Face,https://huggingface.co/blog,https://huggingface.co/blog/feed.xml,company,AI / ML,0
-Hulu,https://tech.hulu.com/,,company,Media streaming,0
-Humanloop,https://humanloop.com/blog,,company,AI / ML,0
-IBM Developer,https://developer.ibm.com/blogs/,,company,Cloud & infra,0
-Icehouse,https://www.icehousecorp.com/blog/,,company,Consulting,0
-IKS,https://www.iks-gmbh.com/blog,,company,Consulting,0
-iMerit,https://imerit.ai/resources/blog/,https://imerit.ai/feed/,company,AI / ML,0
-Imgur,https://imgur.com/,,company,Social,0
-Import.io,https://www.import.io/resources/blog,,company,SaaS B2B,0
-Indeed,https://engineering.indeedblog.com/blog/,https://engineering.indeedblog.com/feed/,company,HR tech,5
-InfluxData,https://www.influxdata.com/blog/,,company,Dev tools,0
-Informed K12,https://tostring.informedk12.com/,,company,Edtech,0
-Instacart,https://tech.instacart.com/,,company,Food delivery,31
-Intel AI,https://community.intel.com/auth/failure?message=csrf_detected&strategy=oidc,,company,AI / ML,0
-Intent Media,https://intentmedia.com/,https://intentmedia.com/feed/,company,Adtech,0
-Intercom,https://www.intercom.com/blog,,company,SaaS B2B,1
-iyzico,https://iyzico.engineering/,,company,Fintech,0
-Jampp,https://geeks.jampp.com/,,company,Adtech,0
-Jane Street,https://blog.janestreet.com/,https://blog.janestreet.com/feed.xml,company,Fintech,0
-Jelastic,https://www.virtuozzo.com/company/blog/,,company,Dev tools,0
-JetBrains,https://blog.jetbrains.com,https://blog.jetbrains.com/feed/,company,Dev tools,0
-JobTeaser,https://medium.com/jobteaser-dev-team/,,company,HR tech,0
-Jolly Good Code,https://jollygoodcode.github.io/,,company,Consulting,0
-jOOQ,https://blog.jooq.org/,https://blog.jooq.org/feed/,company,Dev tools,0
-Just Eat,https://medium.com/justeattakeaway-tech,,company,Food delivery,4
-Kaggle,http://blog.kaggle.com/,,company,AI / ML,0
-Khan Academy,https://engineering.khanacademy.org/,https://engineering.khanacademy.org/rss,company,Edtech,5
-Kili Technology,https://kili-technology.com/blog,,company,AI / ML,0
-Kinvolk,https://kinvolk.io/blog/,,company,Consulting,0
-Kogan.com,https://devblog.kogan.com/,https://devblog.kogan.com/blog?format=rss,company,E-commerce,0
-Kognic (ex-Annotell),https://www.kognic.com/articles,https://www.kognic.com/articles/rss.xml,company,AI / ML,0
-Kolosek,https://kolosek.com/blog/,,company,Consulting,0
-Label Studio,https://labelstud.io/blog/,,company,AI / ML,0
-Labelbox,https://labelbox.com/blog/,,company,AI / ML,0
-Lerner Consulting Blog,https://lernerpython.com/blog/,https://lernerpython.com/feed/,company,Consulting,0
-Levvel,https://www.endava.com/,,company,Consulting,0
-Lightly,https://www.lightly.ai/blog,,company,AI / ML,0
-LINE,https://engineering.linecorp.com/en/blog,,company,Social,12
-LinkedIn,https://www.linkedin.com/blog/engineering,,company,Social,36
-LiveChat,https://platform.text.com/resource-center/updates,,company,SaaS B2B,0
-Lob,https://www.lob.com/category/engineering,,company,Fintech,0
-Localytics,https://eng.localytics.com/,https://eng.localytics.com/rss/,company,SaaS B2B,0
-LoginRadius,https://www.loginradius.com/blog/engineering,https://www.loginradius.com/blog/rss.xml,company,Security,0
-Loyalty,https://loyalty.dev,,company,Dev tools,0
-Lyft,https://eng.lyft.com/,https://eng.lyft.com/feed,company,Mobility,21
-Machinalis,https://www.mercadolibre.com.ar/gz/account-verification?go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Finstitucional%2Fcomunicamos%2Fnoticias%2Fmachinalis&tid=021d565b-f9cd-412a-8181-40971c6c76fe,,company,AI / ML,0
-Made Tech,https://www.madetech.com/blog/,,company,Consulting,0
-Mailchimp,https://mailchimp.com/developer/,,company,SaaS B2B,0
-Mandrill,https://mailchimp.com/es/marketing-glossary/transactional-email/?utm_source=mandrill&utm_medium=mc-site&utm_campaign=aoc_product-mktg_tnx_redirect_wld_20200515,,company,SaaS B2B,0
-MapTiler,https://www.maptiler.com/news/,https://www.maptiler.com/news/feed/posts.xml,company,SaaS B2B,0
-Medium,https://medium.com/medium-eng,,company,Social,0
-MemSQL (SingleStore),https://www.singlestore.com/blog/,,company,Dev tools,0
-Mercari,https://engineering.mercari.com/en/blog/,https://engineering.mercari.com/blog/feed.xml,company,Marketplace,15
-Mesosphere,https://www.nutanix.com/blog,,company,SaaS B2B,0
-Meta AI,https://ai.meta.com/blog/,,company,AI / ML,0
-Microsoft,https://devblogs.microsoft.com/,,company,Cloud & infra,1
-Microsoft Research,https://www.microsoft.com/en-us/research/blog/,https://www.microsoft.com/en-us/research/feed/,company,AI / ML,0
-Milvus,https://milvus.io/blog,,company,AI / ML,0
-Mixpanel,https://mixpanel.com/blog/,,company,SaaS B2B,0
-MojoAuth,https://mojoauth.com/blog,,company,Security,0
-Monetate,https://github.com/monetate/,,company,E-commerce,0
-MongoDB,https://www.mongodb.com/company/blog/channel/engineering-blog,https://www.mongodb.com/company/blog/rss,company,Dev tools,0
-Moove-it,https://qubika.com/mooveit/,,company,Consulting,0
-MosaicML,https://www.databricks.com/blog/tag/ai-research,,company,AI / ML,0
-Mozilla,https://blog.mozilla.org/en/,https://blog.mozilla.org/en/feed/,company,Open source,0
-Myntra,https://medium.com/myntra-engineering,,company,E-commerce,4
-NanoVMs,https://nanovms.com,,company,Dev tools,0
-Netflix,https://netflixtechblog.com/,,company,Media streaming,30
-New York Times,https://open.blogs.nytimes.com,,company,News media,7
-Nextdoor,https://engblog.nextdoor.com/,,company,Social,6
-Notion,https://www.notion.com/blog/topic/tech,,company,SaaS B2B,0
-Novoda,https://novoda.com/blog/,https://novoda.com/blog/feed/,company,Consulting,0
-NPR Apps,https://blog.apps.npr.org/,,company,News media,0
-Nvidia,https://blogs.nvidia.com/,https://blogs.nvidia.com/feed/,company,Cloud & infra,0
-OCTO Technology,https://blog.octo.com/en,https://blog.octo.com/feed,company,Consulting,0
-OctoML,https://www.nvidia.com/en-us/#referrer=octoai/,,company,AI / ML,0
-Okta,https://developer.okta.com/blog/,https://developer.okta.com/feed.xml,company,SaaS B2B,0
-OLX,https://tech.olx.com/,https://tech.olx.com/feed,company,Marketplace,8
-OmniTI,https://omniti.com/seeds/stop-collaborate-and-listen-notify.html,,company,Consulting,0
-OpenAI,https://openai.com/news/,,company,AI / ML,0
-OpenDNS,https://umbrella.cisco.com/blog,https://umbrella.cisco.com/feed,company,Security,0
-OpenMined,https://openmined.org/blog/,https://openmined.org/rss.xml,company,AI / ML,0
-Otto,https://www.otto.de/jobs/de/blogs/techblog/,https://www.otto.de/jobs/de/blogs/techblog/rss/,company,E-commerce,0
-Oyster,http://tech.oyster.com/,,company,HR tech,0
-PagerDuty,https://www.pagerduty.com/blog/,,company,Dev tools,0
-Pagico,https://www.pagico.com/blog/,https://www.pagico.com/blog/feed,company,SaaS B2B,0
-Palantir,https://blog.palantir.com/,,company,General,0
-Panorama Education,http://engineering.panoramaed.com/,https://medium.com/feed/building-panorama-education,company,Edtech,0
-Paperspace,https://blog.paperspace.com/,https://blog.paperspace.com/rss/,company,AI / ML,0
-Parallel Domain,https://paralleldomain.com/resources,,company,AI / ML,0
-Paypal,https://www.paypal-engineering.com/,,company,Fintech,3
-Peapod,https://medium.com/peapod-engineering,,company,E-commerce,0
-Periscope Data,https://www.sisense.com/blog/,,company,SaaS B2B,0
-Phyramid,https://www.saffron.so/,,company,SaaS B2B,0
-Pinterest,https://medium.com/@Pinterest_Engineering,,company,Social,47
-Playment,https://www.playment.io/blog,,company,AI / ML,0
-Pluralsight,https://www.pluralsight.com/browse,,company,Edtech,0
-Postman,https://medium.com/better-practices,,company,Dev tools,0
-Postmark,https://postmarkapp.com/blog,https://postmarkapp.com/blog/feed.atom,company,SaaS B2B,0
-Practo,https://medium.com/practo-engineering,,company,Healthtech,0
-Prezi,https://medium.com/prezi-engineering,,company,SaaS B2B,0
-Prime Video,https://www.aboutamazon.com/what-we-do/entertainment,https://www.aboutamazon.com/rss/feed.rss,company,Media streaming,0
-Prolific Interactive,http://blog.prolificinteractive.com/category/development/,,company,Consulting,0
-PubNub:,https://www.pubnub.com/blog/,https://www.pubnub.com/feed/blog/,company,SaaS B2B,0
-Pulumi,https://www.pulumi.com/blog/,https://www.pulumi.com/blog/rss.xml,company,Dev tools,0
-Quora,https://engineering.quora.com/,,company,Social,0
-Raintank,https://grafana.com/blog/,,company,Dev tools,0
-Ramp,https://engineering.ramp.com/,https://engineering.ramp.com/feed.xml,company,Fintech,12
-REA Group,https://www.rea-group.com/category/tech/,https://www.rea-group.com/category/tech/feed/,company,Classifieds,1
-Red Hat,https://developers.redhat.com/,,company,Cloud & infra,0
-RedBubble,https://medium.com,,company,E-commerce,0
-Reddit,https://redditinc.com/news,https://redditinc.com/news/rss.xml,company,Social,0
-Remedy Games,https://www.remedygames.com/northlight,,company,Gaming,0
-Remind,https://engineering.remind.com/,https://engineering.remind.com/feed.xml,company,SaaS B2B,0
-RetailMeNot,https://medium.com/retailmenot-engineering/,,company,General,0
-Riot Games,https://www.riotgames.com/en/news?q=tech%20blog,,company,Gaming,0
-RisingStack,https://blog.risingstack.com/,,company,Dev tools,0
-Robinhood,https://robinhood.com:443/newsroom/,,company,Fintech,0
-Roboflow,https://roboflow.com/blog,https://roboflow.com/blog/rss,company,AI / ML,0
-RoseHosting,https://www.rosehosting.com/blog/,https://www.rosehosting.com/blog/feed/,company,Cloud & infra,0
-Runtastic (adidas),https://www.runtastic.com/blog,,company,Healthtech,0
-Salesforce,https://engineering.salesforce.com/,https://engineering.salesforce.com/feed/,company,SaaS B2B,0
-Sama,https://www.sama.com/blog,,company,AI / ML,0
-Scale AI,https://scale.com/blog,,company,AI / ML,0
-Schibsted Tech Polska,https://schibsted-vend.pl/blog/,,company,Classifieds,0
-Segment,https://www.twilio.com/en-us/blog/developers,,company,SaaS B2B,0
-Sensible,https://blog.sensible.io/,https://blog.sensible.io/rss,company,Consulting,0
-Serverless,https://www.serverless.com/blog,https://www.serverless.com/blog/rss.xml,company,Dev tools,0
-Sharethis,https://sharethis.com/engineering/,,company,Adtech,0
-Shopify,https://shopify.engineering/,https://shopify.engineering/blog.atom,company,E-commerce,0
-SiaSearch,https://www.siasearch.io/,,company,AI / ML,0
-Sicara,https://www.theodo.com/en-fr/expertise/data,,company,AI / ML,0
-Simple,https://www.onstartups.com/,https://www.onstartups.com/rss.xml,company,Fintech,0
-Simulmedia,https://www.simulmedia.com/,,company,Media streaming,0
-SitePoint,https://www.sitepoint.com/,https://www.sitepoint.com/sitepoint.rss,company,Dev tools,0
-Sketch,https://www.sketch.com/blog/,,company,SaaS B2B,0
-Skyscanner,http://codevoyagers.com/,,company,Travel,1
-Slack,https://slack.engineering/,https://slack.engineering/feed/,company,SaaS B2B,3
-Small Improvements,https://tech.small-improvements.com/,https://tech.small-improvements.com/feed/,company,SaaS B2B,0
-SmugMug,https://www.slideshare.net/,,company,General,0
-Snap,https://eng.snap.com/,,company,Social,6
-Snorkel AI,https://snorkel.ai/blog/,,company,AI / ML,0
-Snyk,https://snyk.io,,company,Dev tools,0
-Soshace,https://blog.soshace.com/engineering-open-source-and-interview-heavy-web-development-podcasts/,,company,Consulting,0
-Soundcloud,https://developers.soundcloud.com/blog/,https://developers.soundcloud.com/blog/blog.rss,company,Media streaming,0
-Spacelift,https://spacelift.io/blog,https://spacelift.io/rss,company,Dev tools,0
-Spotify,https://labs.spotify.com/,https://engineering.atspotify.com/feed,company,Media streaming,28
-Squadcast,https://www.solarwinds.com/blog/category/incident-response,,company,Dev tools,0
-Square,https://developer.squareup.com/blog/,,company,Fintech,5
-Squarespace,https://engineering.squarespace.com/,https://engineering.squarespace.com/blog?format=rss,company,SaaS B2B,0
-Stack Overflow,https://stackoverflow.blog/engineering/,https://stackoverflow.blog/feed,company,Dev tools,0
-Stackshare,https://stackshare.io/feed,,company,SaaS B2B,0
-Stitch Fix,https://multithreaded.stitchfix.com/blog/,https://multithreaded.stitchfix.com/feed.xml,company,General,4
-Strava,https://medium.com/strava-engineering/,,company,General,1
-Stride,https://www.stride.build/blog,,company,Consulting,0
-Stripe,https://stripe.com/blog,https://stripe.com/blog/feed.rss,company,Fintech,9
-SuperAnnotate,https://www.superannotate.com/blog/,,company,AI / ML,0
-Superb AI,https://superb-ai.com/en/resources/blog,,company,AI / ML,0
-Superwise,https://superwise.ai/blog/,https://superwise.ai/rss.xml,company,AI / ML,0
-SurveyMonkey,https://www.surveymonkey.com/,https://www.surveymonkey.com/feed/,company,SaaS B2B,0
-Target,https://target.github.io/,https://target.github.io/feed.xml,company,E-commerce,11
-Teamwork,https://engineroom.teamwork.com/,https://engineroom.teamwork.com/feed,company,SaaS B2B,0
-Tes,https://apply.workable.com:443/tes-global/,,company,Edtech,0
-theScore,https://techblog.thescore.com/,,company,General,0
-Thinking Machines Lab,https://thinkingmachines.ai/blog/,,company,AI / ML,0
-Thoughtbot,https://thoughtbot.com/blog,https://feed.thoughtbot.com/,company,Consulting,0
-ThoughtWorks,https://www.thoughtworks.com/insights,,company,Consulting,0
-Thumbtack,https://www.thumbtack.com/engineering/,https://medium.com/feed/thumbtack-engineering,company,Marketplace,10
-TigerBeetle,https://tigerbeetle.com/blog/,https://tigerbeetle.com/blog/atom.xml,company,Dev tools,0
-Timescale,https://www.tigerdata.com/blog,https://www.tigerdata.com/blog/rss,company,SaaS B2B,0
-Tinder,https://lifeattinder.com/blog,https://medium.com/feed/tinder,company,Social,0
-Toptal,https://www.toptal.com/blog,https://www.toptal.com/blog.rss,company,Consulting,0
-Transferwise,http://tech.transferwise.com/,https://medium.com/feed/wise-engineering,company,Fintech,0
-Trivago,https://tech.trivago.com/,https://tech.trivago.com/rss.xml,company,Travel,6
-TrueCar,https://www.drivenbycode.com/,https://medium.com/feed/driven-by-code,company,Mobility,1
-Tumblr,https://engineering.tumblr.com/,https://engineering.tumblr.com/rss,company,Social,0
-Twilio,https://www.twilio.com/en-us/blog,https://www.twilio.com/en-us/blog.feed.xml,company,SaaS B2B,0
-Twitter (X),https://blog.x.com/engineering/en_us,,company,Social,0
-Two Sigma,https://www.twosigma.com/topic/engineering/,https://www.twosigma.com/feed/,company,Fintech,0
-Uber,https://www.uber.com/blog/engineering/,,company,General,10
-Udacity,https://www.udacity.com/blog/,https://www.udacity.com/blog/feed/,company,Edtech,0
-Understand.ai,https://understand.ai/,,company,AI / ML,0
-V7,https://www.v7labs.com/blog,,company,AI / ML,0
-Venmo,https://venmo.com/?category=Engineering,,company,Fintech,0
-Vespa,https://blog.vespa.ai/,https://blog.vespa.ai/feed.xml,company,AI / ML,0
-Viget,https://www.viget.com/articles?category=code,https://www.viget.com/articles/feed.xml,company,Consulting,0
-Vinted,https://vinted.engineering/,https://vinted.engineering//atom.xml,company,Marketplace,4
-Walmart,https://medium.com/walmartlabs,,company,E-commerce,22
-Wayfair,https://www.aboutwayfair.com/careers/tech-blog,https://www.aboutwayfair.com/careers/tech-blog.rss,company,E-commerce,0
-Wealthfront,https://eng.wealthfront.com/,https://eng.wealthfront.com/feed/,company,Fintech,3
-Wemake.services,https://medium.com/wemake-services,,company,Consulting,0
-Whatnot,https://medium.com/whatnot-engineering,,company,E-commerce,8
-Wingify,https://engineering.wingify.com/,https://engineering.wingify.com/atom.xml,company,SaaS B2B,4
-Wix,https://www.wix.engineering/blog,,company,SaaS B2B,6
-Worldline,https://blog.worldline.tech/,,company,Consulting,0
-WyeWorks,https://www.wyeworks.com/blog/,,company,Consulting,0
-XING,https://tech.xing.com/,,company,HR tech,0
-Yahoo,https://yahooeng.tumblr.com/,https://yahooeng.tumblr.com/rss,company,Social,0
-Yammer,https://medium.com/yammer-engineering,,company,SaaS B2B,0
-Yelp,https://engineeringblog.yelp.com/,https://engineeringblog.yelp.com/feed.xml,company,General,10
-Zapier,https://zapier.com/blog/categories/engineering-insights/,https://zapier.com/blog/feeds/latest/,company,SaaS B2B,0
-Zendesk,https://medium.com/zendesk-engineering,https://zendesk.engineering/feed,company,SaaS B2B,1
-Zendesk(old),https://www.zendesk.es/help-center-closed/?utm_campaign=text&utm_content=developerblog.zendesk.com&utm_medium=poweredbyzendesk&utm_source=helpcenter-closed#georedirect,,company,SaaS B2B,0
-Zerodha,https://zerodha.tech,,company,Fintech,0
-Zillow,https://www.zillow.com/engineering/,,company,Real estate,15
-Zomato,https://www.zomato.com:443/blog/,,company,Food delivery,6
-Zynga,https://www.zynga.com/blogs/engineering,,company,Gaming,0
-Brighter.ai,https://brighter.ai/resources-types/blogs/,,media,AI / ML,0
-Codrops,https://tympanus.net/codrops/,,media,Dev media,0
-Daily JS,https://medium.com/dailyjs,,media,Dev media,0
-Datafloq,https://datafloq.com/course/read-an-input-file-with-cobol/,https://datafloq.com/feed/,media,Dev media,0
-Distill,https://distill.pub/,https://distill.pub/rss.xml,media,Dev media,0
-Dot Dev (.dev),https://dotdev.co,,media,Dev media,0
-Hanami Mastery,https://hanamimastery.com,https://hanamimastery.com/feed.xml,media,Dev media,0
-High Scalability,https://highscalability.com/,https://highscalability.com/rss/,media,Dev media,0
-KDnuggets,https://www.kdnuggets.com/news/index.html,,media,Dev media,0
-Lambda the Ultimate,http://lambda-the-ultimate.org/,http://lambda-the-ultimate.org/rss.xml,media,Dev media,0
-Machine Learning Mastery,https://machinelearningmastery.com/blog/,https://feeds.feedburner.com/MachineLearningMastery,media,Dev media,0
-Nordic APIs,https://nordicapis.com/blog/,https://nordicapis.com/feed/,media,Dev media,0
-NSHipster,https://nshipster.com/,https://nshipster.com/feed.xml,media,Dev media,0
-Pony Foo,https://ponyfoo.com/,https://feeds.feedburner.com/ponyfoo,media,Dev media,0
-Ray Wenderlich,https://www.kodeco.com:443/,https://www.kodeco.com:443/feed,media,Dev media,0
-Real Python,https://realpython.com/,https://realpython.com/atom.xml,media,Dev media,0
-Ruby Weekly,https://rubyweekly.com,https://rubyweekly.com/rss/,media,Dev media,0
-Scale AI Exchange,https://learn.scale.com/public/content?category=blog,,media,Dev media,0
-Stack Abuse,https://stackabuse.com/,https://stackabuse.com/rss/,media,Dev media,0
-The Daily WTF,https://thedailywtf.com/,https://feeds.feedburner.com/TheDailyWtf,media,Dev media,0
-The Gradient,https://thegradient.pub/,https://thegradient.pub/rss/,media,Dev media,0
-Towards Data Science,https://towardsdatascience.com/,https://towardsdatascience.com/feed/,media,Dev media,0
-Weights & Biases,https://forge.coreweave.com/forge-reports,,media,Dev media,0
-Aaron Patterson,https://tenderlovemaking.com/,https://tenderlovemaking.com/atom.xml,personal,Personal,0
-Aaron Suggs (ktheory),https://ktheory.com,https://ktheory.com/rss.xml,personal,Personal,0
-Abu Ashraf Masnun,https://masnun.com/,https://masnun.com/feed/,personal,Personal,0
-Addy Osmani,https://addyosmani.com/blog/,https://addyosmani.com/rss.xml,personal,Personal,0
-Alex Russell,https://infrequently.org/,https://infrequently.org/feed/,personal,Personal,0
-Amit Merchant,https://www.amitmerchant.com/,https://www.amitmerchant.com/feed.xml,personal,Personal,0
-Andrew Bancroft,https://www.andrewcbancroft.com/,https://www.andrewcbancroft.com/index.xml,personal,Personal,0
-Antirez,https://antirez.com/latest/0,https://antirez.com/rss,personal,Personal,0
-arg min (Ben Recht),https://www.argmin.net/,https://www.argmin.net/feed,personal,Personal,0
-Ariya Hidayat,https://ariya.io/,https://ariya.io/index.xml,personal,Personal,0
-Armin Ronacher,https://lucumr.pocoo.org/,https://lucumr.pocoo.org/feed.atom,personal,Personal,0
-Bad Concurrency,http://bad-concurrency.blogspot.com/,http://bad-concurrency.blogspot.com/feeds/posts/default,personal,Personal,0
-Bartlomiej Filipek,https://www.cppstories.com/,https://www.cppstories.com/index.xml,personal,Personal,0
-Blundell's Android Tutorials,http://blog.blundellapps.co.uk,https://blog.blundellapps.co.uk/feed/,personal,Personal,0
-Brendan Eich,https://brendaneich.com/,https://brendaneich.com/feed/,personal,Personal,0
-Brendan Gregg,https://www.brendangregg.com/blog/,https://www.brendangregg.com/blog/rss.xml,personal,Personal,0
-Career Cutler,https://read.highgrowthengineer.com/,https://read.highgrowthengineer.com/feed,personal,Personal,0
-Carlos Becker,https://carlosbecker.com,https://carlosbecker.com/index.xml,personal,Personal,0
-Chip Huyen,https://huyenchip.com/,https://huyenchip.com/feed.xml,personal,Personal,0
-Chris Wellons,https://nullprogram.com/,https://nullprogram.com/feed/,personal,Personal,0
-CSC - IT Center For Science - Cloud Team,https://cloud.blog.csc.fi/,https://cloud.blog.csc.fi/feeds/posts/default,personal,Personal,0
-Dan Luu,https://danluu.com/,https://danluu.com/atom.xml,personal,Personal,0
-Dave Cheney,https://dave.cheney.net/,https://dave.cheney.net/feed,personal,Personal,0
-David Walsh,https://davidwalsh.name/,https://davidwalsh.name/feed/atom,personal,Personal,0
-Dean Hume,https://deanhume.com/,https://deanhume.com/rss/,personal,Personal,0
-Dennis Felsing,https://hookrace.net/,https://hookrace.net/blog/feed/,personal,Personal,0
-Dereuromark,https://www.dereuromark.de/,https://www.dereuromark.de/feed/,personal,Personal,0
-Domenico Luciani,https://domenicoluciani.com,https://domenicoluciani.com/feed.xml,personal,Personal,0
-Dragan Djuric,https://dragan.rocks/,https://dragan.rocks/feed.xml,personal,Personal,0
-Drew DeVault,https://drewdevault.com/,https://drewdevault.com/blog/index.xml,personal,Personal,0
-Eddie Smith,http://www.practicallyefficient.com/,http://www.practicallyefficient.com/feed.xml,personal,Personal,0
-Edgar Aroutiounian,https://hyegar.com/,https://hyegar.com/index.xml,personal,Personal,0
-Edward Faulkner,https://eaf4.com/,https://eaf4.com/rss/,personal,Personal,0
-Eli Bendersky,https://eli.thegreenplace.net/,https://eli.thegreenplace.net/feeds/all.atom.xml,personal,Personal,0
-Eric Lippert,https://ericlippert.com/,https://ericlippert.com/feed/,personal,Personal,0
-Erik Bernhardsson,https://erikbern.com/,https://erikbern.com/index.xml,personal,Personal,0
-Erik Runyon,https://erikrunyon.com/,https://erikrunyon.com/feed.xml,personal,Personal,0
-Evan Hahn,https://evanhahn.com/,https://evanhahn.com/blog/index.xml,personal,Personal,0
-Evan Jones,https://www.evanjones.ca/chronological.html,https://www.evanjones.ca/index.rss,personal,Personal,0
-Evan Miller,https://www.evanmiller.org/,https://www.evanmiller.org/news.xml,personal,Personal,0
-FastML,http://fastml.com/,http://fastml.com/atom.xml,personal,Personal,0
-Federico Cargnelutti,https://blog.fedecarg.com/,https://blog.fedecarg.com/feed/,personal,Personal,0
-Filippo Valsorda,https://words.filippo.io/,https://words.filippo.io/rss/,personal,Personal,0
-Gleb Bahmutov,https://glebbahmutov.com/blog/,https://glebbahmutov.com/blog/atom.xml,personal,Personal,0
-Graham King,https://darkcoding.net/,https://darkcoding.net/index.xml,personal,Personal,0
-Guido van Rossum,http://neopythonic.blogspot.com/,http://neopythonic.blogspot.com/feeds/posts/default,personal,Personal,0
-Hayden James,https://consult.haydenjames.io/,https://linuxblog.io/feed/,personal,Personal,0
-Henrik Lau Eriksson,https://conductofcode.io/,https://conductofcode.io/feed.xml,personal,Personal,0
-Henrik Warne,https://henrikwarne.com/,https://henrikwarne.com/feed/,personal,Personal,0
-Huon Wilson,https://huonw.github.io/,https://huonw.github.io/blog/atom.xml,personal,Personal,0
-Ian Hummel,https://themodernlife.github.io/,https://themodernlife.github.io/feed.xml,personal,Personal,0
-Idontgetoutmuch's Weblog,https://idontgetoutmuch.wordpress.com/,https://idontgetoutmuch.wordpress.com/feed/,personal,Personal,0
-Ilija Eftimov,https://ieftimov.com/,https://ieftimov.com/index.xml,personal,Personal,0
-Ilya Grigorik,https://ilya.grigorik.com/,https://ilya.grigorik.com/essays/rss/,personal,Personal,0
-inFERENCe (Ferenc Huszár),https://www.inference.vc/,https://www.inference.vc/rss/,personal,Personal,0
-Itamar Turner-Trauring,https://codewithoutrules.com,https://codewithoutrules.com/atom.xml,personal,Personal,0
-Jacopo Tarantino,https://jack.ofspades.com/,https://jack.ofspades.com/rss/index.html,personal,Personal,0
-Jake Trent,https://jaketrent.com,https://jaketrent.com/post/feed.xml,personal,Personal,0
-Jake Wharton,https://jakewharton.com/blog/,https://jakewharton.com/atom.xml,personal,Personal,0
-Jake Yesbeck,https://jakeyesbeck.com/,https://jakeyesbeck.com/atom.xml,personal,Personal,0
-James Hague,https://prog21.dadgum.com/,https://prog21.dadgum.com/atom.xml,personal,Personal,0
-Jamis Buck,http://weblog.jamisbuck.org/,http://feeds.feedburner.com/buckblog,personal,Personal,0
-Jan Lelis,https://idiosyncratic-ruby.com/,https://idiosyncratic-ruby.com/feed.xml,personal,Personal,0
-Jason McCreary,https://jasonmccreary.me,https://jasonmccreary.me/feed.xml,personal,Personal,0
-Jay Alammar,https://jalammar.github.io/,https://jalammar.github.io/feed.xml,personal,Personal,0
-Jay Fields,http://blog.jayfields.com,http://feeds.feedburner.com/jayfields/mjKQ,personal,Personal,0
-Jeff Atwood,https://blog.codinghorror.com/,https://blog.codinghorror.com/rss/,personal,Personal,0
-Jeff Preshing,https://preshing.com/,http://preshing.com/feed,personal,Personal,0
-Jeremy Jordan,https://www.jeremyjordan.me/,https://www.jeremyjordan.me/rss/,personal,Personal,0
-Jeremy Kun,https://www.jeremykun.com/,https://www.jeremykun.com/index.xml,personal,Personal,0
-Jerry Gamblin,https://jerrygamblin.com/,https://jerrygamblin.com/feed/,personal,Personal,0
-Jesal Gadhia,https://jes.al/,https://jes.al/atom.xml,personal,Personal,0
-Jessie Frazelle,https://blog.jessfraz.com/,https://blog.jessfraz.com/index.xml,personal,Personal,0
-Joel Spolsky,https://www.joelonsoftware.com/,https://www.joelonsoftware.com/feed/,personal,Personal,0
-.NET,https://devblogs.microsoft.com/dotnet/,https://devblogs.microsoft.com/dotnet/feed/,project,Open source,0
-Android,https://android-developers.googleblog.com/,https://developer.android.com/static/blog/atom.xml,project,Open source,0
-Blender,https://code.blender.org/,https://code.blender.org/feed/,project,Open source,0
-Bootstrap.com,https://blog.getbootstrap.com/,https://blog.getbootstrap.com/feed.xml,project,Open source,0
-Crystal,https://crystal-lang.org/,https://crystal-lang.org/feed.xml,project,Open source,0
-Facebook AI Research,https://engineering.fb.com/category/ai-research/,https://engineering.fb.com/feed/,project,Open source,0
-FreshRSS,https://freshrss.org,https://github.com/FreshRSS/FreshRSS/releases.atom,project,Open source,0
-Go,https://go.dev/blog/,,project,Open source,0
-Hypriot,https://blog.hypriot.com/,https://blog.hypriot.com/index.xml,project,Open source,0
-IPFS,https://ipfs.io/blog/,https://blog.ipfs.tech/index.xml,project,Open source,0
-Kotlin,https://blog.jetbrains.com/kotlin/,https://blog.jetbrains.com/kotlin/feed/,project,Open source,0
-Laravel,https://laravel-news.com/blog/,https://feed.laravel-news.com/,project,Open source,0
-Microsoft Edge,https://blogs.windows.com/msedgedev/,,project,Open source,0
-Microsoft Python Engineering,https://devblogs.microsoft.com/python/,https://devblogs.microsoft.com/python/feed/,project,Open source,0
-Mozilla Automation Team,https://planet.mozilla.org/ateam/,,project,Open source,0
-Mozilla Hacks,https://hacks.mozilla.org/,https://hacks.mozilla.org/feed/,project,Open source,0
-Mozilla Release Engineering,https://planet.mozilla.org/releng/,https://planet.mozilla.org/releng/atom.xml,project,Open source,0
-PyTorch,https://medium.com/pytorch,,project,Dev media,0
-React Native,https://reactnative.dev/blog,https://reactnative.dev/blog/rss.xml,project,Open source,0
-ReactJS News,https://reactjsnews.com,https://reactjsnews.com/feed.xml,project,Open source,0
-RocksDB,https://rocksdb.org/blog/,https://rocksdb.org/feed.xml,project,Open source,0
-Rust,https://blog.rust-lang.org/,https://blog.rust-lang.org/feed.xml,project,Open source,0
-Swift,https://www.swift.org/blog/,,project,Open source,0
-TensorFlow,https://blog.tensorflow.org/,https://blog.tensorflow.org/feeds/posts/default,project,Dev media,0
-Berkeley AI Research (BAIR),https://bair.berkeley.edu/blog/,https://bair.berkeley.edu/blog/feed.xml,university,Academia,0
-Machine Learning at Berkeley,https://mlberkeley.substack.com/,https://mlberkeley.substack.com/feed,university,Academia,0
-MIT News: Machine Learning,https://news.mit.edu/topic/machine-learning,,university,Academia,0
-ML@CMU,https://blog.ml.cmu.edu/,https://blog.ml.cmu.edu/feed/,university,Academia,0
-Stanford DAWN,https://dawn.cs.stanford.edu/blog,,university,Academia,0
+name,url,feed_url,type,industry,topics,language,cases_on_effectsize
+2GIS,https://habr.com/ru/companies/2gis/articles/,https://habr.com/ru/rss/companies/2gis/articles/?fl=ru,company,Search engine,ML & AI; Backend & infrastructure,ru,1
+500px,https://500px.com/developers,,company,Social,Backend & infrastructure,en,0
+8th Light,https://8thlight.com/insights//,https://8thlight.com/insights/feed/rss.xml,company,Consulting,ML & AI; Management & culture,en,0
+99designs,https://99designs.com/blog/engineering/,,company,Marketplace,Backend & infrastructure; Frontend & mobile,en,0
+Addepar,https://medium.com/build-addepar,,company,Fintech,Data engineering; Backend & infrastructure,en,1
+Adesso,https://www.adesso.de/de/news/blog/index.jsp,https://www.adesso.de/de/news/blog/blog-rss.xml,company,Consulting,ML & AI; Security,de,0
+AdRoll,https://tech.nextroll.com/blog/,https://tech.nextroll.com/feed.xml,company,Adtech,Backend & infrastructure; Frontend & mobile,en,0
+Advanced Web Machinery,https://advancedweb.hu/,https://advancedweb.hu/atom.xml,company,Consulting,Backend & infrastructure,en,0
+Affinity,https://www.affinity.co/resources/blog,,company,SaaS B2B,ML & AI; Product & design,en,0
+Affirm,https://tech.affirm.com/,,company,Fintech,ML & AI; Data engineering; Backend & infrastructure,en,5
+Airbnb,https://medium.com/airbnb-engineering,https://medium.com/feed/airbnb-engineering,company,Marketplace,Analytics & experiments; ML & AI; Backend & infrastructure,en,27
+AIRI,https://habr.com/ru/companies/airi/articles/,https://habr.com/ru/rss/companies/airi/articles/?fl=ru,company,AI / ML,ML & AI,ru,4
+Alfa-Bank,https://habr.com/ru/companies/alfa/articles/,https://habr.com/ru/rss/companies/alfa/articles/?fl=ru,company,Banking,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure; Management & culture,ru,68
+Algolia,https://www.algolia.com/blog,,company,SaaS B2B,Analytics & experiments; ML & AI; Frontend & mobile,en,18
+Allegro,https://allegro.tech/,,company,E-commerce,ML & AI; Management & culture,pl,2
+Amazon,https://developer.amazon.com:443/apps-and-games/blogs,,company,Cloud & infra,Frontend & mobile,en,13
+Amazon Science,https://www.amazon.science/blog?f0=0000016e-2fb1-d205-a5ef-afb9d52c0000&f0=0000016e-2ff0-da81-a5ef-3ff057f10000&f0=0000016e-2ff1-d205-a5ef-aff9651e0000,,company,AI / ML,Analytics & experiments; ML & AI,en,0
+Anvil,https://www.useanvil.com/blog/engineering/,,company,SaaS B2B,Backend & infrastructure,en,0
+Anyverse,https://anyverse.ai/blog/,https://anyverse.ai/feed/,company,AI / ML,ML & AI; Data engineering,en,0
+Apple,https://machinelearning.apple.com/,https://machinelearning.apple.com/rss.xml,company,General,Analytics & experiments; ML & AI,en,20
+Appnexus,https://techblog.appnexus.com/,https://medium.com/feed/xandr-tech,company,Adtech,Backend & infrastructure; Management & culture,en,0
+Aquarium Learning,https://medium.com/aquarium-learning,,company,AI / ML,ML & AI; Data engineering,en,0
+Arkency,https://blog.arkency.com/,https://blog.arkency.com/feed.xml,company,Consulting,Backend & infrastructure; Management & culture,en,0
+Artsy,https://artsy.github.io/,https://artsy.github.io/feed,company,General,Backend & infrastructure; Frontend & mobile,en,0
+Asana,https://asana.com/inside-asana/engineering-spotlight,,company,SaaS B2B,Analytics & experiments; ML & AI; Backend & infrastructure,en,3
+Askomputer,https://blog.askomputer.pl,https://blog.askomputer.pl/feed/,company,SaaS B2B,Backend & infrastructure; Security,pl,0
+ASOS,https://medium.com/asos-techblog,,company,E-commerce,ML & AI; Backend & infrastructure; Management & culture,en,3
+Atlassian,https://atlassianblog.wpengine.com/,,company,SaaS B2B,Analytics & experiments; ML & AI; Product & design,en,7
+Atomic Object,https://spin.atomicobject.com/,https://spin.atomicobject.com/feed/,company,Consulting,ML & AI; Management & culture,en,0
+Auth0,https://auth0.com/blog/,https://auth0.com/blog/rss.xml,company,Security,Backend & infrastructure; Security,en,0
+Auto1,https://auto1.tech,,company,Mobility,Backend & infrastructure; Security,en,0
+Avenue Code,https://blog.avenuecode.com/,https://blog.avenuecode.com/rss.xml,company,Consulting,ML & AI,en,0
+Avito Tech,https://habr.com/ru/companies/avito/articles/,https://habr.com/ru/rss/companies/avito/articles/?fl=ru,company,Classifieds,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure; Security,ru,90
+AWS,https://aws.amazon.com/blogs/aws/,https://aws.amazon.com/blogs/aws/feed/,company,Cloud & infra,ML & AI; Data engineering; Backend & infrastructure,en,0
+Axeploit,https://axeploit.com/blog,https://axeploit.com/feed.xml,company,Security,Security,en,0
+Babbel,https://www.babbel.com/en/magazine/category/babbel-bytes,,company,Edtech,Backend & infrastructure; Frontend & mobile,en,0
+Backtrace,https://backtrace.io/blog,,company,Dev tools,Backend & infrastructure,en,0
+Badoo,https://techblog.badoo.com/,https://medium.com/feed/bumble-tech,company,Social,ML & AI; Frontend & mobile,en,2
+Baidu Research,http://research.baidu.com/Blog,,company,AI / ML,ML & AI,zh,0
+Bandcamp,https://bandcamptech.wordpress.com/,https://bandcamptech.wordpress.com/feed/,company,Media streaming,Backend & infrastructure,en,0
+Bazaarvoice,https://blog.developer.bazaarvoice.com/,https://blog.developer.bazaarvoice.com/feed/,company,SaaS B2B,Data engineering; Backend & infrastructure,en,0
+BBC,https://medium.com/bbc-design-engineering/,https://medium.com/feed/bbc-product-technology,company,Media streaming,Backend & infrastructure; Frontend & mobile; Management & culture,en,0
+Bee42,https://bee42.com/de/blog,,company,Consulting,Backend & infrastructure,de,0
+Beeline,https://habr.com/ru/companies/beeline_tech/articles/,https://habr.com/ru/rss/companies/beeline_tech/articles/?fl=ru,company,Telecom,Analytics & experiments; ML & AI; Data engineering,ru,1
+Benchling,https://benchling.engineering/,https://benchling.engineering/feed,company,Healthtech,ML & AI; Backend & infrastructure,en,2
+BetterWorks,https://engineering.betterworks.com/,https://engineering.betterworks.com/atom.xml,company,SaaS B2B,Backend & infrastructure,en,0
+bitExpert,https://blog.bitexpert.de/,https://blog.bitexpert.de/blog/rss.xml,company,Consulting,ML & AI; Backend & infrastructure,en,0
+Bitly,http://word.bitly.com/,,company,SaaS B2B,Backend & infrastructure,en,0
+BitTorrent,https://www.bittorrent.com/blog/category/engineering/,,company,Open source,Backend & infrastructure,en,0
+BlaBlaCar,https://medium.com/blablacar,https://medium.com/feed/blablacar,company,Marketplace,Analytics & experiments; ML & AI; Data engineering; Security,en,6
+Blacklane,https://medium.com/blacklane-engineering,,company,Mobility,Management & culture,en,0
+Bloomberg,https://www.techatbloomberg.com/blog/#2,,company,News media,Backend & infrastructure; Management & culture,en,0
+Bohops,https://bohops.com/,https://bohops.com/feed/,company,Security,Security,en,0
+Bolt,https://medium.com/bolt-labs,,company,Mobility,Analytics & experiments; Data engineering; Backend & infrastructure,en,7
+Booking.com,https://blog.booking.com/,,company,Travel,ML & AI; Backend & infrastructure,en,24
+Booking.com Data Science,https://booking.ai/,,company,Travel,Analytics & experiments; ML & AI,en,0
+Branch,https://www.branch.io/resources/category/blog/,https://www.branch.io/feed/,company,Adtech,Analytics & experiments; Security,en,0
+Brandwatch,https://www.brandwatch.com/,https://www.brandwatch.com/feed/,company,SaaS B2B,Analytics & experiments; ML & AI,en,0
+Buildkite,https://buildkite.com/resources/blog/category/engineering/,https://buildkite.com/blog.atom,company,Dev tools,ML & AI; Backend & infrastructure,en,0
+Canva,https://www.canva.dev/blog/engineering/,https://www.canva.dev/blog/engineering/feed.xml,company,SaaS B2B,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure,en,10
+Capgemini,https://capgemini.github.io/,,company,Consulting,ML & AI; Management & culture,en,0
+Cerner,https://engineering.cerner.com/,https://engineering.cerner.com/index.xml,company,Healthtech,Backend & infrastructure; Frontend & mobile,en,0
+Cian,https://habr.com/ru/companies/cian/articles/,https://habr.com/ru/rss/companies/cian/articles/?fl=ru,company,Real estate,ML & AI; Data engineering; Frontend & mobile,ru,1
+Citydrive,https://habr.com/ru/companies/citydrive/articles/,https://habr.com/ru/rss/companies/citydrive/articles/?fl=ru,company,Mobility,Backend & infrastructure; Frontend & mobile; Product & design,ru,0
+Citymobil,https://habr.com/ru/companies/citymobil/articles/,https://habr.com/ru/rss/companies/citymobil/articles/?fl=ru,company,Mobility,Analytics & experiments; Backend & infrastructure; Frontend & mobile,ru,0
+ClearML,https://clear.ml/blog,https://clear.ml/feed,company,AI / ML,ML & AI; Backend & infrastructure,en,0
+Cleartrip,https://medium.com/cleartrip,,company,Travel,ML & AI; Product & design,en,0
+Clever,https://engineering.clever.com/,https://engineering.clever.com/feed/,company,Edtech,Backend & infrastructure; Security,en,0
+Close,https://making.close.com/,,company,SaaS B2B,Backend & infrastructure; Frontend & mobile,en,0
+Cloudera,https://www.cloudera.com/blog.html,,company,SaaS B2B,ML & AI; Data engineering,en,0
+Cloudflare,https://blog.cloudflare.com/,https://blog.cloudflare.com/rss,company,Cloud & infra,Backend & infrastructure; Security,en,0
+Cloudscaling,https://cloudscaling.com/blog/,,company,Cloud & infra,Backend & infrastructure,en,0
+Codelitt,https://www.codelitt.com/blog,,company,Consulting,Product & design; Management & culture,en,0
+Codeminer42,https://blog.codeminer42.com/,https://blog.codeminer42.com/feed/,company,Consulting,ML & AI; Backend & infrastructure,en,0
+CodeName One,https://www.codenameone.com/blog/,,company,Dev tools,Backend & infrastructure; Frontend & mobile,en,0
+Codeship,https://www.cloudbees.com/blog,,company,Dev tools,Backend & infrastructure,en,0
+Comet,https://www.comet.com:443/site/blog/,https://www.comet.com/site/feed/,company,AI / ML,ML & AI,en,0
+Compass,https://medium.com/compass-true-north/,,company,Real estate,Data engineering; Backend & infrastructure; Management & culture,en,2
+Confluent,https://www.confluent.io/blog/,https://www.confluent.io/rss.xml,company,SaaS B2B,Data engineering; Backend & infrastructure,en,0
+Contentful,https://www.contentful.com/blog/,,company,SaaS B2B,Product & design,en,0
+Cookpad,https://sourcediving.com/,,company,Social,ML & AI; Backend & infrastructure; Management & culture,en,1
+Coursera,https://blog.coursera.org/,https://blog.coursera.org/feed/,company,Edtech,Product & design,en,1
+Cryptsus,https://cryptsus.com/blog/,https://cryptsus.com/blog/feed.rss,company,Security,Security,en,0
+Curalate,http://engineering.curalate.com/,http://engineering.curalate.com/feed.xml,company,Adtech,ML & AI; Backend & infrastructure,en,0
+Dailymotion,http://engineering.dailymotion.com/,,company,Media streaming,ML & AI,en,2
+Data Science at Microsoft,https://medium.com/data-science-at-microsoft,,company,SaaS B2B,Analytics & experiments; ML & AI; Data engineering,en,0
+Databricks,https://www.databricks.com/blog,https://www.databricks.com/feed,company,SaaS B2B,Analytics & experiments; ML & AI; Data engineering,en,2
+Datadog,https://www.datadoghq.com/blog/engineering/,https://www.datadoghq.com/blog/engineering/index.xml,company,Dev tools,Analytics & experiments; Backend & infrastructure; Security,en,6
+Dataiku,https://www.dataiku.com/blog,,company,AI / ML,ML & AI; Data engineering,en,0
+Dataloop,https://dataloop.ai/blog/,,company,AI / ML,ML & AI; Data engineering,en,0
+DataRobot,https://www.datarobot.com/blog/,https://www.datarobot.com/blog/feed/,company,AI / ML,ML & AI,en,0
+DeepMind,https://deepmind.google/blog/,,company,AI / ML,ML & AI,en,0
+Deezer,https://medium.com/deezer-engineering,https://medium.com/feed/deezer-engineering,company,Media streaming,Backend & infrastructure; Management & culture,en,0
+Deliveroo,https://deliveroo.engineering/,https://deliveroo.engineering/feed.xml,company,Food delivery,Analytics & experiments; ML & AI; Backend & infrastructure; Management & culture,en,4
+DigitalOcean,https://www.digitalocean.com/blog,https://www.digitalocean.com/rss/blog.atom,company,Cloud & infra,ML & AI; Backend & infrastructure,en,0
+Discord,https://discord.com/blog/,https://discord.com/blog/rss.xml,company,Social,Analytics & experiments; Backend & infrastructure; Frontend & mobile,en,4
+Disney Streaming,https://medium.com/disney-streaming,,company,Media streaming,Backend & infrastructure,en,2
+Docker,https://www.docker.com/blog/,https://www.docker.com/feed/,company,Dev tools,Backend & infrastructure; Security,en,0
+Docutain,https://sdk.docutain.com/blog,,company,SaaS B2B,ML & AI; Frontend & mobile,en,0
+Domclick,https://habr.com/ru/companies/domclick/articles/,https://habr.com/ru/rss/companies/domclick/articles/?fl=ru,company,Real estate,ML & AI; Backend & infrastructure; Frontend & mobile,ru,1
+DoorDash,https://careersatdoordash.com/engineering-blog/,,company,Food delivery,Analytics & experiments; ML & AI; Backend & infrastructure; Security,en,61
+Doximity,https://technology.doximity.com:443/,,company,Healthtech,Data engineering; Backend & infrastructure; Frontend & mobile,en,0
+Dropbox,https://dropbox.tech/,https://dropbox.tech/feed,company,Dev tools,Analytics & experiments; ML & AI; Backend & infrastructure,en,9
+Duolingo,https://blog.duolingo.com/hub/engineering/,https://blog.duolingo.com/rss/,company,Edtech,Analytics & experiments; ML & AI; Management & culture,en,7
+DVC,https://dvc.org/blog/,https://dvc.org/feed/,company,AI / ML,ML & AI; Data engineering,en,0
+Ebay,https://innovation.ebayinc.com/stories/,https://www.ebayinc.com/stories/news/rss/,company,E-commerce,ML & AI; Product & design,en,11
+Edilec,https://edilec.com/blog/,https://edilec.com/feed.xml,company,General,Backend & infrastructure; Security,en,0
+eFounders,https://medium.com/unexpected-token,https://medium.com/feed/unexpected-token,company,HR tech,Backend & infrastructure; Management & culture,en,0
+Elastic,https://www.elastic.co/blog,,company,Dev tools,Backend & infrastructure; Security,en,0
+Encord,https://encord.com/blog/,,company,AI / ML,ML & AI; Data engineering,en,0
+Envato,https://elements.envato.com/learn/,,company,Dev tools,ML & AI; Product & design,en,0
+Erlang Solutions,https://www.erlang-solutions.com/blog/,,company,Consulting,Backend & infrastructure; Security,en,0
+Etsy,https://codeascraft.com/,,company,E-commerce,Analytics & experiments; ML & AI; Backend & infrastructure,en,18
+Europace,https://europace.de/,https://europace.de/feed/,company,General,Analytics & experiments; Management & culture,de,0
+Evernote,https://evernote.com/en-us/blog,,company,SaaS B2B,ML & AI; Product & design,en,0
+Evil Martians,https://evilmartians.com/chronicles/,https://evilmartians.com/chronicles.atom,company,Consulting,ML & AI; Backend & infrastructure; Frontend & mobile,en,0
+EVRAZ,https://habr.com/ru/companies/evraz/articles/,https://habr.com/ru/rss/companies/evraz/articles/?fl=ru,company,Manufacturing,ML & AI; Data engineering; Backend & infrastructure,ru,1
+Expedia,https://medium.com/expedia-group-tech,https://medium.com/feed/expedia-group-tech,company,Travel,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure,en,19
+Facebook,https://engineering.fb.com/,https://engineering.fb.com/feed/,company,Social,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure,en,46
+FastMail,https://www.fastmail.com/blog/,https://www.fastmail.com/blog/feed.xml,company,SaaS B2B,Backend & infrastructure; Product & design,en,0
+Feedly,https://feedly.com/resources,,company,SaaS B2B,Product & design,en,0
+Feedzai,https://medium.com/feedzaitech,https://medium.com/feed/feedzaitech,company,Fintech,ML & AI; Security,en,4
+Figma,https://www.figma.com/blog/engineering/,,company,SaaS B2B,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure; Frontend & mobile,en,6
+Findmypast,https://tech.findmypast.com/,https://tech.findmypast.com/feed.xml,company,General,Data engineering; Backend & infrastructure,en,1
+Finn.no,http://tech.finn.no/,http://tech.finn.no/atom.xml,company,Marketplace,ML & AI; Backend & infrastructure; Frontend & mobile,en,0
+Flickr,https://code.flickr.net/,https://code.flickr.net/feed/,company,Social,ML & AI; Backend & infrastructure,en,0
+Flip,https://tech.flip.id/,https://tech.flip.id/rss/,company,General,Frontend & mobile; Product & design,en,1
+Flipboard,https://engineering.flipboard.com/,https://engineering.flipboard.com/feed.xml,company,Social,ML & AI; Frontend & mobile,en,0
+Flipkart,https://tech.flipkart.com/,,company,E-commerce,ML & AI; Backend & infrastructure,en,0
+Fluidinfo,https://blogs.fluidinfo.com/,https://blogs.fluidinfo.com/feed/,company,General,Frontend & mobile; Product & design,en,0
+Foursquare,https://foursquare.com/resources/#blog,https://foursquare.com/feed/,company,Social,Analytics & experiments; ML & AI; Data engineering,en,5
+Freeletics,https://freeletics.engineering/,https://freeletics.engineering/feed.xml,company,General,Backend & infrastructure; Frontend & mobile,en,0
+Freshworks,https://medium.com/freshworks-engineering-blog,,company,SaaS B2B,Data engineering; Backend & infrastructure; Frontend & mobile,en,0
+Galois,https://www.galois.com/blog,,company,Consulting,Security,en,0
+GameChanger,https://tech.gc.com/,https://tech.gc.com/atom.xml,company,General,Data engineering; Backend & infrastructure; Frontend & mobile,en,0
+Gazprombank,https://habr.com/ru/companies/gazprombank/articles/,https://habr.com/ru/rss/companies/gazprombank/articles/?fl=ru,company,Banking,Data engineering; Frontend & mobile; Security,ru,2
+GitHub,https://githubengineering.com/,https://github.blog/engineering.atom,company,Dev tools,Analytics & experiments; ML & AI; Backend & infrastructure; Frontend & mobile,en,4
+GitHub Old,https://github.blog/engineering/,https://github.blog/feed/,company,Dev tools,ML & AI; Backend & infrastructure; Security,en,0
+GoCardless,https://gocardless.com/resources,https://gocardless.com/content-platform/rss/resources.xml,company,Fintech,Product & design,en,0
+GoDaddy,https://godaddy.github.io/engineering/,,company,Cloud & infra,Backend & infrastructure,en,0
+Gojek,https://blog.gojek.io/private/?r=%2F,,company,Mobility,Backend & infrastructure; Frontend & mobile; Management & culture,en,2
+Google Developers,https://developers.googleblog.com/,,company,Cloud & infra,ML & AI; Backend & infrastructure; Frontend & mobile,en,0
+Google Research,https://research.google/blog/,,company,AI / ML,Analytics & experiments; ML & AI,en,9
+Google: AI,https://blog.google/innovation-and-ai/technology/ai/,,company,AI / ML,ML & AI,en,0
+GoSquared,https://www.gosquared.com/blog/category/engineering,https://www.gosquared.com/blog/feed,company,SaaS B2B,Analytics & experiments,en,0
+Grab,https://engineering.grab.com/,https://engineering.grab.com/feed.xml,company,Marketplace,Analytics & experiments; ML & AI; Data engineering; Security,en,22
+Grammarly,https://www.grammarly.com/blog/engineering/,,company,SaaS B2B,Analytics & experiments; ML & AI; Backend & infrastructure,en,2
+Grofers,https://lambda.grofers.com/,https://lambda.blinkit.com/feed,company,Food delivery,Data engineering; Backend & infrastructure; Frontend & mobile,en,0
+Groupon,https://engineering.groupon.com/,https://medium.com/feed/groupon-eng,company,General,Backend & infrastructure; Frontend & mobile,en,1
+Guardian,https://theguardian.engineering/blog,https://www.theguardian.com/info/series/engineering-blog/rss,company,News media,ML & AI; Backend & infrastructure; Frontend & mobile,en,1
+Gusto,http://engineering.gusto.com/,,company,HR tech,Analytics & experiments; Data engineering; Backend & infrastructure; Management & culture,en,7
+H2O.ai,https://h2o.ai/blog,https://h2o.ai/blog/feed,company,AI / ML,ML & AI,en,0
+HackerEarth,https://engineering.hackerearth.com/,https://engineering.hackerearth.com/rss,company,Edtech,Data engineering; Backend & infrastructure; Frontend & mobile,en,0
+Haptik,https://www.haptik.ai/tech,https://www.haptik.ai/tech/rss.xml,company,SaaS B2B,ML & AI; Backend & infrastructure; Security,en,0
+Harry's,http://engineering.harrys.com/,https://medium.com/feed/harrys-engineering,company,E-commerce,Frontend & mobile; Management & culture,en,0
+HashiCorp,https://www.hashicorp.com/en/blog,,company,Dev tools,Backend & infrastructure; Security,en,0
+Hashrocket,https://hashrocket.com/blog,https://hashrocket.com/blog/posts.rss,company,Consulting,ML & AI; Backend & infrastructure; Frontend & mobile,en,0
+Helpshift,https://medium.com/helpshift-engineering/,https://medium.com/feed/helpshift-engineering,company,SaaS B2B,Analytics & experiments; ML & AI; Data engineering,en,3
+Heroku,https://www.heroku.com/blog/category/engineering/,,company,SaaS B2B,ML & AI; Backend & infrastructure,en,0
+Honeybadger,https://www.honeybadger.io/blog/,,company,Dev tools,Backend & infrastructure,en,0
+Hootsuite,http://code.hootsuite.com/,https://medium.com/feed/hootsuite-engineering,company,SaaS B2B,Data engineering; Frontend & mobile,en,0
+Hostinger,https://www.hostinger.com/blog/engineering/,https://www.hostinger.com/blog/feed/,company,Cloud & infra,ML & AI; Backend & infrastructure; Security,en,0
+Housing.com,https://medium.com/engineering-housing,https://medium.com/feed/engineering-housing,company,Classifieds,Data engineering; Backend & infrastructure,en,1
+HubbleHQ,https://hubblehq.com/blog,,company,SaaS B2B,Analytics & experiments,en,0
+HubSpot,https://product.hubspot.com/blog/topic/engineering,https://product.hubspot.com/blog/rss.xml,company,SaaS B2B,ML & AI; Data engineering; Backend & infrastructure,en,4
+Hugging Face,https://huggingface.co/blog,https://huggingface.co/blog/feed.xml,company,AI / ML,ML & AI,en,0
+Hulu,https://tech.hulu.com/,,company,Media streaming,Backend & infrastructure,en,0
+Humanloop,https://humanloop.com/blog,,company,AI / ML,ML & AI; Product & design,en,0
+IBM Developer,https://developer.ibm.com/blogs/,,company,Cloud & infra,Data engineering; Backend & infrastructure,en,1
+Icehouse,https://www.icehousecorp.com/blog/,,company,Consulting,Backend & infrastructure,en,0
+IKS,https://www.iks-gmbh.com/blog,,company,Consulting,ML & AI; Backend & infrastructure,de,0
+iMerit,https://imerit.ai/resources/blog/,https://imerit.ai/feed/,company,AI / ML,ML & AI; Data engineering,en,0
+Import.io,https://www.import.io/resources/blog,,company,SaaS B2B,ML & AI; Data engineering,en,0
+Indeed,https://engineering.indeedblog.com/blog/,https://engineering.indeedblog.com/feed/,company,HR tech,Analytics & experiments; ML & AI; Backend & infrastructure,en,5
+InfluxData,https://www.influxdata.com/blog/,,company,Dev tools,Data engineering; Backend & infrastructure,en,0
+Informed K12,https://tostring.informedk12.com/,,company,Edtech,Data engineering,en,0
+Instacart,https://tech.instacart.com/,https://tech.instacart.com/feed,company,Food delivery,Analytics & experiments; ML & AI; Data engineering,en,31
+Intercom,https://www.intercom.com/blog,,company,SaaS B2B,ML & AI; Product & design,en,1
+ivi,https://habr.com/ru/companies/ivi/articles/,https://habr.com/ru/rss/companies/ivi/articles/?fl=ru,company,Media streaming,Backend & infrastructure; Frontend & mobile; Product & design,ru,1
+iyzico,https://iyzico.engineering/,,company,Fintech,Backend & infrastructure,en,0
+Jampp,https://geeks.jampp.com/,,company,Adtech,Data engineering; Backend & infrastructure,en,0
+Jane Street,https://blog.janestreet.com/,https://blog.janestreet.com/feed.xml,company,Fintech,ML & AI; Backend & infrastructure,en,0
+Jelastic,https://www.virtuozzo.com/company/blog/,,company,Dev tools,Backend & infrastructure,en,0
+JetBrains,https://blog.jetbrains.com,https://blog.jetbrains.com/feed/,company,Dev tools,ML & AI; Backend & infrastructure,en,0
+JobTeaser,https://medium.com/jobteaser-dev-team/,https://medium.com/feed/jobteaser-dev-team,company,HR tech,Backend & infrastructure; Frontend & mobile,en,0
+Jolly Good Code,https://jollygoodcode.github.io/,,company,Consulting,Frontend & mobile,en,0
+jOOQ,https://blog.jooq.org/,https://blog.jooq.org/feed/,company,Dev tools,Backend & infrastructure,en,0
+Just Eat,https://medium.com/justeattakeaway-tech,https://medium.com/feed/justeattakeaway-tech,company,Food delivery,ML & AI; Backend & infrastructure; Frontend & mobile,en,4
+Kaggle,http://blog.kaggle.com/,,company,AI / ML,Analytics & experiments; ML & AI,en,0
+Khan Academy,https://engineering.khanacademy.org/,https://engineering.khanacademy.org/rss,company,Edtech,Analytics & experiments; Backend & infrastructure; Frontend & mobile,en,5
+Kili Technology,https://kili-technology.com/blog,,company,AI / ML,ML & AI; Data engineering,en,0
+Kinvolk,https://kinvolk.io/blog/,,company,Consulting,Backend & infrastructure,en,0
+Kogan.com,https://devblog.kogan.com/,https://devblog.kogan.com/blog?format=rss,company,E-commerce,ML & AI; Data engineering; Backend & infrastructure,en,0
+Kognic (ex-Annotell),https://www.kognic.com/articles,https://www.kognic.com/articles/rss.xml,company,AI / ML,ML & AI; Data engineering,en,0
+Kolosek,https://kolosek.com/blog/,,company,Consulting,Backend & infrastructure; Frontend & mobile,en,0
+Kontur,https://habr.com/ru/companies/skbkontur/articles/,https://habr.com/ru/rss/companies/skbkontur/articles/?fl=ru,company,SaaS B2B,ML & AI; Product & design,ru,1
+Label Studio,https://labelstud.io/blog/,,company,AI / ML,ML & AI; Data engineering,en,0
+Labelbox,https://labelbox.com/blog/,,company,AI / ML,ML & AI; Data engineering,en,0
+Lerner Consulting Blog,https://lernerpython.com/blog/,https://lernerpython.com/feed/,company,Consulting,Data engineering; Backend & infrastructure,en,0
+Lightly,https://www.lightly.ai/blog,,company,AI / ML,ML & AI; Data engineering,en,0
+LINE,https://engineering.linecorp.com/en/blog,,company,Social,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure; Frontend & mobile,en,12
+LinkedIn,https://www.linkedin.com/blog/engineering,,company,Social,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure; Security,en,36
+LiveChat,https://platform.text.com/resource-center/updates,,company,SaaS B2B,Product & design,en,0
+Lob,https://www.lob.com/category/engineering,,company,Fintech,Backend & infrastructure,en,0
+Localytics,https://eng.localytics.com/,https://eng.localytics.com/rss/,company,SaaS B2B,Data engineering; Backend & infrastructure,en,0
+LoginRadius,https://www.loginradius.com/blog/engineering,https://www.loginradius.com/blog/rss.xml,company,Security,Backend & infrastructure; Security,en,0
+Loyalty,https://loyalty.dev,,company,Dev tools,Backend & infrastructure; Security,en,0
+Lyft,https://eng.lyft.com/,https://eng.lyft.com/feed,company,Mobility,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure,en,22
+Made Tech,https://www.madetech.com/blog/,,company,Consulting,Product & design; Management & culture,en,0
+Magnit Tech,https://habr.com/ru/companies/magnit/articles/,https://habr.com/ru/rss/companies/magnit/articles/?fl=ru,company,Retail,ML & AI; Data engineering; Backend & infrastructure,ru,1
+Mailchimp,https://mailchimp.com/developer/,,company,SaaS B2B,Backend & infrastructure,en,0
+MapTiler,https://www.maptiler.com/news/,https://www.maptiler.com/news/feed/posts.xml,company,SaaS B2B,Backend & infrastructure; Frontend & mobile,en,0
+Medium,https://medium.com/medium-eng,https://medium.engineering/feed,company,Social,ML & AI; Frontend & mobile,en,5
+MegaFon,https://habr.com/ru/companies/megafon/articles/,https://habr.com/ru/rss/companies/megafon/articles/?fl=ru,company,Telecom,Data engineering; Backend & infrastructure; Frontend & mobile,ru,5
+MemSQL (SingleStore),https://www.singlestore.com/blog/,,company,Dev tools,Data engineering; Backend & infrastructure,en,0
+Mercari,https://engineering.mercari.com/en/blog/,https://engineering.mercari.com/blog/feed.xml,company,Marketplace,Analytics & experiments; ML & AI; Backend & infrastructure,en,15
+Mesosphere,https://www.nutanix.com/blog,,company,SaaS B2B,Backend & infrastructure,en,0
+Meta AI,https://ai.meta.com/blog/,,company,AI / ML,Analytics & experiments; ML & AI,en,0
+Meta Analytics,https://medium.com/@AnalyticsAtMeta,,company,Social,Analytics & experiments; ML & AI; Data engineering,en,0
+Microsoft,https://devblogs.microsoft.com/,,company,Cloud & infra,Backend & infrastructure; Frontend & mobile,en,26
+Microsoft Research,https://www.microsoft.com/en-us/research/blog/,https://www.microsoft.com/en-us/research/feed/,company,AI / ML,Analytics & experiments; ML & AI; Security,en,0
+Milvus,https://milvus.io/blog,,company,AI / ML,ML & AI; Backend & infrastructure,en,0
+Mixpanel,https://mixpanel.com/blog/,,company,SaaS B2B,Analytics & experiments; ML & AI,en,0
+MojoAuth,https://mojoauth.com/blog,,company,Security,Backend & infrastructure; Security,en,0
+MongoDB,https://www.mongodb.com/company/blog/channel/engineering-blog,https://www.mongodb.com/company/blog/rss,company,Dev tools,Data engineering; Backend & infrastructure,en,0
+Moove-it,https://qubika.com/mooveit/,,company,Consulting,Analytics & experiments; ML & AI,en,0
+MosaicML,https://www.databricks.com/blog/tag/ai-research,,company,AI / ML,ML & AI; Data engineering,en,20
+Mozilla,https://blog.mozilla.org/en/,https://blog.mozilla.org/en/feed/,company,Open source,Security; Product & design,en,0
+MTS,https://habr.com/ru/companies/ru_mts/articles/,https://habr.com/ru/rss/companies/ru_mts/articles/?fl=ru,company,Telecom,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure; Security,ru,37
+MWS AI,https://habr.com/ru/companies/mts_ai/articles/,https://habr.com/ru/rss/companies/mts_ai/articles/?fl=ru,company,AI / ML,ML & AI; Security,ru,7
+Myntra,https://medium.com/myntra-engineering,,company,E-commerce,ML & AI; Data engineering; Backend & infrastructure; Frontend & mobile,en,4
+NanoVMs,https://nanovms.com,,company,Dev tools,Backend & infrastructure,en,0
+Netflix,https://netflixtechblog.com/,https://netflixtechblog.com/feed,company,Media streaming,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure,en,38
+New York Times,https://open.blogs.nytimes.com,https://open.nytimes.com/feed,company,News media,Analytics & experiments; ML & AI; Frontend & mobile; Product & design; Management & culture,en,7
+Nextdoor,https://engblog.nextdoor.com/,https://engblog.nextdoor.com/feed,company,Social,Analytics & experiments; ML & AI; Backend & infrastructure,en,6
+Notion,https://www.notion.com/blog/topic/tech,,company,SaaS B2B,ML & AI; Backend & infrastructure,en,3
+Novoda,https://novoda.com/blog/,https://novoda.com/blog/feed/,company,Consulting,Frontend & mobile; Management & culture,en,0
+NPR Apps,https://blog.apps.npr.org/,,company,News media,Frontend & mobile; Product & design,en,0
+Nvidia,https://blogs.nvidia.com/,https://blogs.nvidia.com/feed/,company,Cloud & infra,ML & AI; Backend & infrastructure,en,0
+OCTO Technology,https://blog.octo.com/en,https://blog.octo.com/feed,company,Consulting,ML & AI; Management & culture,fr,0
+Okta,https://developer.okta.com/blog/,https://developer.okta.com/feed.xml,company,SaaS B2B,Backend & infrastructure; Security,en,0
+OLX,https://tech.olx.com/,https://tech.olx.com/feed,company,Marketplace,Analytics & experiments; ML & AI; Frontend & mobile,en,8
+OmniTI,https://omniti.com/seeds/stop-collaborate-and-listen-notify.html,,company,Consulting,Backend & infrastructure,en,0
+OpenAI,https://openai.com/news/,,company,AI / ML,ML & AI,en,0
+OpenDNS,https://umbrella.cisco.com/blog,https://umbrella.cisco.com/feed,company,Security,Security,en,0
+OpenMined,https://openmined.org/blog/,https://openmined.org/rss.xml,company,AI / ML,ML & AI; Security,en,0
+Otto,https://www.otto.de/jobs/de/blogs/techblog/,https://www.otto.de/jobs/de/blogs/techblog/rss/,company,E-commerce,ML & AI; Backend & infrastructure,de,5
+Oyster,http://tech.oyster.com/,,company,HR tech,Backend & infrastructure; Frontend & mobile,en,0
+PagerDuty,https://www.pagerduty.com/blog/,,company,Dev tools,ML & AI; Backend & infrastructure,en,0
+Pagico,https://www.pagico.com/blog/,https://www.pagico.com/blog/feed,company,SaaS B2B,Product & design,en,0
+Palantir,https://blog.palantir.com/,https://blog.palantir.com/feed,company,General,ML & AI; Frontend & mobile,en,0
+Panorama Education,http://engineering.panoramaed.com/,https://medium.com/feed/building-panorama-education,company,Edtech,Analytics & experiments; ML & AI,en,0
+Paperspace,https://blog.paperspace.com/,https://blog.paperspace.com/rss/,company,AI / ML,ML & AI; Backend & infrastructure,en,0
+Parallel Domain,https://paralleldomain.com/resources,,company,AI / ML,ML & AI,en,0
+Paypal,https://www.paypal-engineering.com/,https://medium.com/feed/paypal-tech,company,Fintech,Analytics & experiments; ML & AI; Data engineering,en,3
+Peapod,https://medium.com/peapod-engineering,,company,E-commerce,Frontend & mobile,en,0
+Periscope Data,https://www.sisense.com/blog/,,company,SaaS B2B,Analytics & experiments; ML & AI,en,0
+Phyramid,https://www.saffron.so/,,company,SaaS B2B,Analytics & experiments; Frontend & mobile,en,0
+Pinterest,https://medium.com/@Pinterest_Engineering,https://medium.com/feed/@Pinterest_Engineering,company,Social,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure,en,48
+Playment,https://www.playment.io/blog,,company,AI / ML,ML & AI; Data engineering,en,0
+Postman,https://medium.com/better-practices,https://medium.com/feed/better-practices,company,Dev tools,Backend & infrastructure; Security,en,0
+Postmark,https://postmarkapp.com/blog,https://postmarkapp.com/blog/feed.atom,company,SaaS B2B,ML & AI; Backend & infrastructure,en,0
+Practo,https://medium.com/practo-engineering,https://medium.com/feed/practo-engineering,company,Healthtech,Backend & infrastructure; Frontend & mobile,en,0
+Prezi,https://medium.com/prezi-engineering,,company,SaaS B2B,Backend & infrastructure; Frontend & mobile,en,0
+Prolific Interactive,http://blog.prolificinteractive.com/category/development/,,company,Consulting,Backend & infrastructure; Frontend & mobile,en,0
+PubNub:,https://www.pubnub.com/blog/,https://www.pubnub.com/feed/blog/,company,SaaS B2B,ML & AI; Backend & infrastructure,en,0
+Pulumi,https://www.pulumi.com/blog/,https://www.pulumi.com/blog/rss.xml,company,Dev tools,Backend & infrastructure; Security,en,0
+Quora,https://engineering.quora.com/,,company,Social,ML & AI; Backend & infrastructure,en,0
+Raintank,https://grafana.com/blog/,,company,Dev tools,Backend & infrastructure,en,0
+Ramp,https://engineering.ramp.com/,https://engineering.ramp.com/feed.xml,company,Fintech,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure,en,12
+REA Group,https://www.rea-group.com/category/tech/,https://www.rea-group.com/category/tech/feed/,company,Classifieds,Backend & infrastructure; Management & culture,en,1
+Red Hat,https://developers.redhat.com/,,company,Cloud & infra,ML & AI; Backend & infrastructure,en,0
+RedBubble,https://medium.com,,company,E-commerce,Management & culture,en,0
+Reddit,https://redditinc.com/news,https://redditinc.com/news/rss.xml,company,Social,Analytics & experiments; Product & design,en,0
+Remedy Games,https://www.remedygames.com/northlight,,company,Gaming,Backend & infrastructure,en,0
+Remind,https://engineering.remind.com/,https://engineering.remind.com/feed.xml,company,SaaS B2B,Backend & infrastructure; Security,en,0
+RetailMeNot,https://medium.com/retailmenot-engineering/,https://engineering.ziffmedia.com/feed,company,General,Backend & infrastructure; Frontend & mobile,en,0
+Riot Games,https://www.riotgames.com/en/news?q=tech%20blog,,company,Gaming,Backend & infrastructure,en,0
+RisingStack,https://blog.risingstack.com/,,company,Dev tools,ML & AI; Backend & infrastructure,en,0
+Robinhood,https://robinhood.com:443/newsroom/,,company,Fintech,Backend & infrastructure; Management & culture,en,0
+Roboflow,https://roboflow.com/blog,https://roboflow.com/blog/rss,company,AI / ML,ML & AI,en,0
+RoseHosting,https://www.rosehosting.com/blog/,https://www.rosehosting.com/blog/feed/,company,Cloud & infra,Backend & infrastructure,en,0
+RSHB Digital,https://habr.com/ru/companies/rshb/articles/,https://habr.com/ru/rss/companies/rshb/articles/?fl=ru,company,Banking,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure,ru,6
+Salesforce,https://engineering.salesforce.com/,https://engineering.salesforce.com/feed/,company,SaaS B2B,ML & AI; Data engineering; Backend & infrastructure,en,0
+Sama,https://www.sama.com/blog,,company,AI / ML,ML & AI; Data engineering,en,0
+Sber,https://habr.com/ru/companies/sberbank/articles/,https://habr.com/ru/rss/companies/sberbank/articles/?fl=ru,company,Banking,Analytics & experiments; ML & AI; Backend & infrastructure; Product & design,ru,59
+SberDevices,https://habr.com/ru/companies/sberdevices/articles/,https://habr.com/ru/rss/companies/sberdevices/articles/?fl=ru,company,Hardware,ML & AI; Frontend & mobile,ru,5
+Scale AI,https://scale.com/blog,,company,AI / ML,ML & AI,en,0
+Schibsted Tech Polska,https://schibsted-vend.pl/blog/,,company,Classifieds,Backend & infrastructure; Frontend & mobile; Management & culture,en,1
+Sensible,https://blog.sensible.io/,https://blog.sensible.io/rss,company,Consulting,Backend & infrastructure,en,0
+Serverless,https://www.serverless.com/blog,https://www.serverless.com/blog/rss.xml,company,Dev tools,ML & AI; Backend & infrastructure,en,0
+Sharethis,https://sharethis.com/engineering/,,company,Adtech,Data engineering; Backend & infrastructure,en,0
+Shopify,https://shopify.engineering/,https://shopify.engineering/blog.atom,company,E-commerce,Analytics & experiments; ML & AI; Frontend & mobile; Security,en,19
+Sicara,https://www.theodo.com/en-fr/expertise/data,,company,AI / ML,Analytics & experiments; Data engineering,en,0
+SitePoint,https://www.sitepoint.com/,https://www.sitepoint.com/sitepoint.rss,company,Dev tools,ML & AI; Backend & infrastructure; Frontend & mobile,en,0
+Sketch,https://www.sketch.com/blog/,,company,SaaS B2B,Product & design,en,0
+Skyeng,https://habr.com/ru/companies/skyeng/articles/,https://habr.com/ru/rss/companies/skyeng/articles/?fl=ru,company,Edtech,Analytics & experiments; Backend & infrastructure; Frontend & mobile,ru,1
+Skyscanner,http://codevoyagers.com/,https://medium.com/feed/@SkyscannerEng,company,Travel,Analytics & experiments; Backend & infrastructure; Management & culture,en,1
+Slack,https://slack.engineering/,https://slack.engineering/feed/,company,SaaS B2B,ML & AI; Backend & infrastructure; Security,en,3
+Small Improvements,https://tech.small-improvements.com/,https://tech.small-improvements.com/feed/,company,SaaS B2B,Backend & infrastructure; Frontend & mobile; Management & culture,en,0
+Snap,https://eng.snap.com/,,company,Social,Analytics & experiments; ML & AI; Backend & infrastructure; Frontend & mobile,en,6
+Snorkel AI,https://snorkel.ai/blog/,,company,AI / ML,ML & AI; Data engineering,en,0
+Snyk,https://snyk.io,,company,Dev tools,ML & AI; Security,en,0
+Soshace,https://blog.soshace.com/engineering-open-source-and-interview-heavy-web-development-podcasts/,,company,Consulting,Frontend & mobile; Management & culture,en,0
+Soundcloud,https://developers.soundcloud.com/blog/,https://developers.soundcloud.com/blog/blog.rss,company,Media streaming,ML & AI; Backend & infrastructure,en,0
+Spacelift,https://spacelift.io/blog,https://spacelift.io/rss,company,Dev tools,Backend & infrastructure,en,0
+Spotify,https://labs.spotify.com/,https://engineering.atspotify.com/feed,company,Media streaming,Analytics & experiments; ML & AI; Product & design,en,94
+Spotify Confidence,https://confidence.spotify.com/blog,https://confidence.spotify.com/feed.xml,company,Media streaming,Analytics & experiments; Product & design,en,0
+Spotify Research,https://research.atspotify.com/,,company,Media streaming,Analytics & experiments; ML & AI,en,0
+Squadcast,https://www.solarwinds.com/blog/category/incident-response,,company,Dev tools,Backend & infrastructure,en,0
+Square,https://developer.squareup.com/blog/,,company,Fintech,Analytics & experiments; ML & AI; Backend & infrastructure; Security,en,5
+Squarespace,https://engineering.squarespace.com/,https://engineering.squarespace.com/blog?format=rss,company,SaaS B2B,Backend & infrastructure; Frontend & mobile,en,0
+Stack Overflow,https://stackoverflow.blog/engineering/,https://stackoverflow.blog/feed,company,Dev tools,Analytics & experiments; ML & AI; Backend & infrastructure,en,6
+Statsig,https://www.statsig.com/blog,,company,Dev tools,Analytics & experiments; ML & AI,en,1
+Stitch Fix,https://multithreaded.stitchfix.com/blog/,https://multithreaded.stitchfix.com/feed.xml,company,General,ML & AI; Backend & infrastructure,en,4
+Strava,https://medium.com/strava-engineering/,https://medium.com/feed/strava-engineering,company,General,ML & AI; Backend & infrastructure,en,1
+Stride,https://www.stride.build/blog,,company,Consulting,ML & AI; Security,en,0
+Stripe,https://stripe.com/blog,https://stripe.com/blog/feed.rss,company,Fintech,Analytics & experiments; ML & AI; Security; Product & design,en,9
+SuperAnnotate,https://www.superannotate.com/blog/,,company,AI / ML,ML & AI,en,0
+Superb AI,https://superb-ai.com/en/resources/blog,,company,AI / ML,ML & AI,en,0
+Superwise,https://superwise.ai/blog/,https://superwise.ai/rss.xml,company,AI / ML,ML & AI; Security,en,0
+SurveyMonkey,https://www.surveymonkey.com/,https://www.surveymonkey.com/feed/,company,SaaS B2B,Analytics & experiments; Product & design,en,0
+T-Bank,https://habr.com/ru/companies/tbank/articles/,https://habr.com/ru/rss/companies/tbank/articles/?fl=ru,company,Banking,Analytics & experiments; ML & AI; Backend & infrastructure; Frontend & mobile; Security,ru,33
+Target,https://target.github.io/,https://target.github.io/feed.xml,company,E-commerce,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure,en,11
+Teamwork,https://engineroom.teamwork.com/,https://engineroom.teamwork.com/feed,company,SaaS B2B,Data engineering; Backend & infrastructure,en,0
+theScore,https://techblog.thescore.com/,,company,General,Backend & infrastructure; Frontend & mobile,en,0
+Thinking Machines Lab,https://thinkingmachines.ai/blog/,,company,AI / ML,ML & AI,en,0
+Thoughtbot,https://thoughtbot.com/blog,https://feed.thoughtbot.com/,company,Consulting,Backend & infrastructure; Product & design,en,0
+ThoughtWorks,https://www.thoughtworks.com/insights,,company,Consulting,ML & AI; Backend & infrastructure,en,0
+Thumbtack,https://www.thumbtack.com/engineering/,https://medium.com/feed/thumbtack-engineering,company,Marketplace,Analytics & experiments; ML & AI; Frontend & mobile,en,10
+TigerBeetle,https://tigerbeetle.com/blog/,https://tigerbeetle.com/blog/atom.xml,company,Dev tools,Backend & infrastructure,en,0
+Timescale,https://www.tigerdata.com/blog,https://www.tigerdata.com/blog/rss,company,SaaS B2B,Data engineering; Backend & infrastructure,en,0
+Tinder,https://lifeattinder.com/blog,https://medium.com/feed/tinder,company,Social,Backend & infrastructure; Frontend & mobile,en,1
+Toptal,https://www.toptal.com/blog,https://www.toptal.com/blog.rss,company,Consulting,ML & AI; Backend & infrastructure,en,0
+Trivago,https://tech.trivago.com/,https://tech.trivago.com/rss.xml,company,Travel,Analytics & experiments; ML & AI; Backend & infrastructure; Frontend & mobile,en,6
+TrueCar,https://www.drivenbycode.com/,https://medium.com/feed/driven-by-code,company,Mobility,ML & AI; Backend & infrastructure,en,1
+Tumblr,https://engineering.tumblr.com/,https://engineering.tumblr.com/rss,company,Social,Frontend & mobile; Product & design,en,0
+Twilio,https://www.twilio.com/en-us/blog,https://www.twilio.com/en-us/blog.feed.xml,company,SaaS B2B,ML & AI; Product & design,en,0
+Twitter (X),https://blog.x.com/engineering/en_us,,company,Social,Backend & infrastructure; Product & design,en,1
+Two Sigma,https://www.twosigma.com/topic/engineering/,https://www.twosigma.com/feed/,company,Fintech,ML & AI; Management & culture,en,0
+Uber,https://www.uber.com/blog/engineering/,,company,General,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure; Security,en,10
+Udacity,https://www.udacity.com/blog/,https://www.udacity.com/blog/feed/,company,Edtech,ML & AI,en,0
+Udemy,https://medium.com/udemy-engineering,,company,Edtech,Analytics & experiments; ML & AI; Frontend & mobile,en,3
+Understand.ai,https://understand.ai/,,company,AI / ML,ML & AI,en,0
+Unofficial Google Data Science,https://www.unofficialgoogledatascience.com/,https://www.unofficialgoogledatascience.com/feeds/posts/default,company,AI / ML,Analytics & experiments; ML & AI,en,0
+V7,https://www.v7labs.com/blog,,company,AI / ML,ML & AI,en,0
+Venmo,https://venmo.com/?category=Engineering,,company,Fintech,Data engineering; Backend & infrastructure; Frontend & mobile,en,0
+Vespa,https://blog.vespa.ai/,https://blog.vespa.ai/feed.xml,company,AI / ML,ML & AI; Backend & infrastructure,en,0
+Viget,https://www.viget.com/articles?category=code,https://www.viget.com/articles/feed.xml,company,Consulting,ML & AI; Product & design,en,0
+Vinted,https://vinted.engineering/,https://vinted.engineering//atom.xml,company,Marketplace,ML & AI; Data engineering; Backend & infrastructure,en,4
+VK,https://habr.com/ru/companies/vk/articles/,https://habr.com/ru/rss/companies/vk/articles/?fl=ru,company,Social,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure,ru,51
+VTB,https://habr.com/ru/companies/vtb/articles/,https://habr.com/ru/rss/companies/vtb/articles/?fl=ru,company,Banking,ML & AI; Data engineering; Backend & infrastructure,ru,14
+Walmart,https://medium.com/walmartlabs,,company,E-commerce,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure; Security,en,22
+Wayfair,https://www.aboutwayfair.com/careers/tech-blog,https://www.aboutwayfair.com/careers/tech-blog.rss,company,E-commerce,ML & AI; Data engineering; Backend & infrastructure,en,0
+Wealthfront,https://eng.wealthfront.com/,https://eng.wealthfront.com/feed/,company,Fintech,Analytics & experiments; ML & AI; Backend & infrastructure; Frontend & mobile,en,3
+Wemake.services,https://medium.com/wemake-services,https://medium.com/feed/wemake-services,company,Consulting,Backend & infrastructure; Frontend & mobile; Product & design,en,0
+Whatnot,https://medium.com/whatnot-engineering,,company,E-commerce,ML & AI; Data engineering; Backend & infrastructure,en,8
+Wingify,https://engineering.wingify.com/,https://engineering.wingify.com/atom.xml,company,SaaS B2B,Data engineering; Backend & infrastructure; Frontend & mobile,en,4
+Wix,https://www.wix.engineering/blog,,company,SaaS B2B,Analytics & experiments; ML & AI; Backend & infrastructure,en,6
+Worldline,https://blog.worldline.tech/,,company,Consulting,ML & AI; Backend & infrastructure; Security,en,0
+WyeWorks,https://www.wyeworks.com/blog/,,company,Consulting,ML & AI; Management & culture,en,0
+X5 Tech,https://habr.com/ru/companies/X5Tech/articles/,https://habr.com/ru/rss/companies/X5Tech/articles/?fl=ru,company,Retail,Analytics & experiments; ML & AI; Frontend & mobile,ru,10
+XING,https://tech.xing.com/,https://tech.new-work.se/feed,company,HR tech,Backend & infrastructure; Frontend & mobile; Management & culture,en,0
+Yahoo,https://yahooeng.tumblr.com/,https://yahooeng.tumblr.com/rss,company,Social,Data engineering; Backend & infrastructure; Security,en,0
+Yammer,https://medium.com/yammer-engineering,https://medium.com/feed/yammer-engineering,company,SaaS B2B,Backend & infrastructure; Frontend & mobile,en,0
+Yandex,https://habr.com/ru/companies/yandex/articles/,https://habr.com/ru/rss/companies/yandex/articles/?fl=ru,company,Search engine,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure; Security,ru,91
+Yelp,https://engineeringblog.yelp.com/,https://engineeringblog.yelp.com/feed.xml,company,General,Analytics & experiments; ML & AI; Backend & infrastructure; Frontend & mobile,en,10
+Zalando,https://engineering.zalando.com/,,company,E-commerce,Analytics & experiments; ML & AI; Data engineering; Backend & infrastructure,en,10
+Zapier,https://zapier.com/blog/categories/engineering-insights/,https://zapier.com/blog/feeds/latest/,company,SaaS B2B,ML & AI; Product & design,en,3
+Zendesk,https://medium.com/zendesk-engineering,https://zendesk.engineering/feed,company,SaaS B2B,Backend & infrastructure; Management & culture,en,1
+Zerodha,https://zerodha.tech,,company,Fintech,Data engineering; Backend & infrastructure; Frontend & mobile,en,0
+Zillow,https://www.zillow.com/engineering/,,company,Real estate,Analytics & experiments; ML & AI; Data engineering; Management & culture,en,15
+Zomato,https://www.zomato.com:443/blog/,,company,Food delivery,ML & AI; Backend & infrastructure; Frontend & mobile,en,6
+Zvuk,https://habr.com/ru/companies/zvuk/articles/,https://habr.com/ru/rss/companies/zvuk/articles/?fl=ru,company,Media streaming,Analytics & experiments; ML & AI; Backend & infrastructure,ru,1
+Zynga,https://www.zynga.com/blogs/engineering,,company,Gaming,Backend & infrastructure; Frontend & mobile,en,0
+Brighter.ai,https://brighter.ai/resources-types/blogs/,,media,AI / ML,Security,en,0
+Codrops,https://tympanus.net/codrops/,,media,Dev media,Frontend & mobile,en,0
+Daily JS,https://medium.com/dailyjs,https://medium.com/feed/dailyjs,media,Dev media,Frontend & mobile,en,0
+Datafloq,https://datafloq.com/course/read-an-input-file-with-cobol/,https://datafloq.com/feed/,media,Dev media,ML & AI; Security,en,0
+Distill,https://distill.pub/,https://distill.pub/rss.xml,media,Dev media,ML & AI,en,0
+Hanami Mastery,https://hanamimastery.com,https://hanamimastery.com/feed.xml,media,Dev media,Backend & infrastructure; Frontend & mobile,en,0
+High Scalability,https://highscalability.com/,https://highscalability.com/rss/,media,Dev media,Data engineering; Backend & infrastructure,en,0
+KDnuggets,https://www.kdnuggets.com/news/index.html,https://www.kdnuggets.com/feed/,media,Dev media,ML & AI; Data engineering,en,0
+Lambda the Ultimate,http://lambda-the-ultimate.org/,,media,Dev media,Backend & infrastructure,en,0
+Machine Learning Mastery,https://machinelearningmastery.com/blog/,https://feeds.feedburner.com/MachineLearningMastery,media,Dev media,ML & AI,en,0
+Nordic APIs,https://nordicapis.com/blog/,https://nordicapis.com/feed/,media,Dev media,Backend & infrastructure; Security,en,0
+NSHipster,https://nshipster.com/,https://nshipster.com/feed.xml,media,Dev media,Frontend & mobile,en,0
+Pony Foo,https://ponyfoo.com/,https://feeds.feedburner.com/ponyfoo,media,Dev media,Frontend & mobile,en,0
+Ray Wenderlich,https://www.kodeco.com:443/,https://www.kodeco.com:443/feed,media,Dev media,ML & AI; Frontend & mobile,en,0
+Real Python,https://realpython.com/,https://realpython.com/atom.xml,media,Dev media,ML & AI; Data engineering; Backend & infrastructure,en,0
+Ruby Weekly,https://rubyweekly.com,https://rubyweekly.com/rss/,media,Dev media,Backend & infrastructure,en,0
+Scale AI Exchange,https://learn.scale.com/public/content?category=blog,,media,Dev media,ML & AI,en,0
+Stack Abuse,https://stackabuse.com/,https://stackabuse.com/rss/,media,Dev media,ML & AI; Backend & infrastructure; Security,en,0
+The Daily WTF,https://thedailywtf.com/,https://feeds.feedburner.com/TheDailyWtf,media,Dev media,Backend & infrastructure,en,0
+The Gradient,https://thegradient.pub/,https://thegradient.pub/rss/,media,Dev media,ML & AI,en,0
+Towards Data Science,https://towardsdatascience.com/,https://towardsdatascience.com/feed/,media,Dev media,Analytics & experiments; ML & AI; Data engineering,en,0
+Weights & Biases,https://forge.coreweave.com/forge-reports,,media,Dev media,ML & AI; Backend & infrastructure,en,0
+Aaron Patterson,https://tenderlovemaking.com/,https://tenderlovemaking.com/atom.xml,personal,Personal,Backend & infrastructure,en,0
+Aaron Suggs (ktheory),https://ktheory.com,https://ktheory.com/rss.xml,personal,Personal,Backend & infrastructure; Management & culture,en,0
+Abu Ashraf Masnun,https://masnun.com/,https://masnun.com/feed/,personal,Personal,Backend & infrastructure,en,0
+Addy Osmani,https://addyosmani.com/blog/,https://addyosmani.com/rss.xml,personal,Personal,ML & AI; Management & culture,en,0
+Alex Russell,https://infrequently.org/,https://infrequently.org/feed/,personal,Personal,Frontend & mobile; Management & culture,en,0
+Amit Merchant,https://www.amitmerchant.com/,https://www.amitmerchant.com/feed.xml,personal,Personal,Backend & infrastructure; Frontend & mobile,en,0
+Andrew Bancroft,https://www.andrewcbancroft.com/,https://www.andrewcbancroft.com/index.xml,personal,Personal,Frontend & mobile,en,0
+Antirez,https://antirez.com/latest/0,https://antirez.com/rss,personal,Personal,ML & AI; Backend & infrastructure,en,0
+arg min (Ben Recht),https://www.argmin.net/,https://www.argmin.net/feed,personal,Personal,Analytics & experiments; ML & AI,en,0
+Ariya Hidayat,https://ariya.io/,https://ariya.io/index.xml,personal,Personal,ML & AI; Backend & infrastructure,en,0
+Armin Ronacher,https://lucumr.pocoo.org/,https://lucumr.pocoo.org/feed.atom,personal,Personal,ML & AI; Backend & infrastructure,en,0
+Bad Concurrency,http://bad-concurrency.blogspot.com/,http://bad-concurrency.blogspot.com/feeds/posts/default,personal,Personal,Backend & infrastructure,en,0
+Bartlomiej Filipek,https://www.cppstories.com/,https://www.cppstories.com/index.xml,personal,Personal,Backend & infrastructure,en,0
+Blundell's Android Tutorials,http://blog.blundellapps.co.uk,https://blog.blundellapps.co.uk/feed/,personal,Personal,ML & AI; Frontend & mobile,en,0
+Brendan Eich,https://brendaneich.com/,https://brendaneich.com/feed/,personal,Personal,Frontend & mobile,en,0
+Brendan Gregg,https://www.brendangregg.com/blog/,https://www.brendangregg.com/blog/rss.xml,personal,Personal,ML & AI; Backend & infrastructure,en,0
+Career Cutler,https://read.highgrowthengineer.com/,https://read.highgrowthengineer.com/feed,personal,Personal,ML & AI; Management & culture,en,0
+Carlos Becker,https://carlosbecker.com,https://carlosbecker.com/index.xml,personal,Personal,Backend & infrastructure,en,0
+Chip Huyen,https://huyenchip.com/,https://huyenchip.com/feed.xml,personal,Personal,ML & AI,en,0
+Chris Wellons,https://nullprogram.com/,https://nullprogram.com/feed/,personal,Personal,Backend & infrastructure,en,0
+CSC - IT Center For Science - Cloud Team,https://cloud.blog.csc.fi/,https://cloud.blog.csc.fi/feeds/posts/default,personal,Personal,Backend & infrastructure,en,0
+Dan Luu,https://danluu.com/,https://danluu.com/atom.xml,personal,Personal,ML & AI; Backend & infrastructure,en,0
+Dave Cheney,https://dave.cheney.net/,https://dave.cheney.net/feed,personal,Personal,Backend & infrastructure,en,0
+David Walsh,https://davidwalsh.name/,https://davidwalsh.name/feed/atom,personal,Personal,Frontend & mobile,en,0
+Dean Hume,https://deanhume.com/,https://deanhume.com/rss/,personal,Personal,ML & AI; Management & culture,en,0
+Dennis Felsing,https://hookrace.net/,https://hookrace.net/blog/feed/,personal,Personal,Backend & infrastructure,en,0
+Dereuromark,https://www.dereuromark.de/,https://www.dereuromark.de/feed/,personal,Personal,Backend & infrastructure,en,0
+Domenico Luciani,https://domenicoluciani.com,https://domenicoluciani.com/feed.xml,personal,Personal,Backend & infrastructure; Management & culture,en,0
+Dragan Djuric,https://dragan.rocks/,https://dragan.rocks/feed.xml,personal,Personal,ML & AI; Backend & infrastructure,en,0
+Drew DeVault,https://drewdevault.com/,https://drewdevault.com/blog/index.xml,personal,Personal,ML & AI; Backend & infrastructure,en,0
+Eddie Smith,http://www.practicallyefficient.com/,http://www.practicallyefficient.com/feed.xml,personal,Personal,Backend & infrastructure,en,0
+Edgar Aroutiounian,https://hyegar.com/,https://hyegar.com/index.xml,personal,Personal,Backend & infrastructure,en,0
+Edward Faulkner,https://eaf4.com/,https://eaf4.com/rss/,personal,Personal,Frontend & mobile; Management & culture,en,0
+Eli Bendersky,https://eli.thegreenplace.net/,https://eli.thegreenplace.net/feeds/all.atom.xml,personal,Personal,Backend & infrastructure,en,0
+Eric Lippert,https://ericlippert.com/,https://ericlippert.com/feed/,personal,Personal,Backend & infrastructure,en,0
+Erik Bernhardsson,https://erikbern.com/,https://erikbern.com/index.xml,personal,Personal,Data engineering; Backend & infrastructure,en,0
+Erik Runyon,https://erikrunyon.com/,https://erikrunyon.com/feed.xml,personal,Personal,Backend & infrastructure; Frontend & mobile,en,0
+Evan Hahn,https://evanhahn.com/,https://evanhahn.com/blog/index.xml,personal,Personal,Backend & infrastructure; Frontend & mobile,en,0
+Evan Jones,https://www.evanjones.ca/chronological.html,https://www.evanjones.ca/index.rss,personal,Personal,Backend & infrastructure,en,0
+Evan Miller,https://www.evanmiller.org/,https://www.evanmiller.org/news.xml,personal,Personal,Analytics & experiments; Backend & infrastructure,en,0
+FastML,http://fastml.com/,http://fastml.com/atom.xml,personal,Personal,ML & AI,en,0
+Federico Cargnelutti,https://blog.fedecarg.com/,https://blog.fedecarg.com/feed/,personal,Personal,Backend & infrastructure; Frontend & mobile,en,0
+Filippo Valsorda,https://words.filippo.io/,https://words.filippo.io/rss/,personal,Personal,Backend & infrastructure; Security,en,0
+Gleb Bahmutov,https://glebbahmutov.com/blog/,https://glebbahmutov.com/blog/atom.xml,personal,Personal,Frontend & mobile,en,0
+Graham King,https://darkcoding.net/,https://darkcoding.net/index.xml,personal,Personal,Backend & infrastructure,en,0
+Guido van Rossum,http://neopythonic.blogspot.com/,http://neopythonic.blogspot.com/feeds/posts/default,personal,Personal,Backend & infrastructure; Management & culture,en,0
+Hayden James,https://consult.haydenjames.io/,https://linuxblog.io/feed/,personal,Personal,Backend & infrastructure,en,0
+Henrik Lau Eriksson,https://conductofcode.io/,https://conductofcode.io/feed.xml,personal,Personal,Backend & infrastructure; Frontend & mobile,en,0
+Henrik Warne,https://henrikwarne.com/,https://henrikwarne.com/feed/,personal,Personal,ML & AI; Backend & infrastructure,en,0
+Huon Wilson,https://huonw.github.io/,https://huonw.github.io/blog/atom.xml,personal,Personal,ML & AI; Backend & infrastructure,en,0
+Ian Hummel,https://themodernlife.github.io/,https://themodernlife.github.io/feed.xml,personal,Personal,Data engineering; Backend & infrastructure,en,0
+Idontgetoutmuch's Weblog,https://idontgetoutmuch.wordpress.com/,https://idontgetoutmuch.wordpress.com/feed/,personal,Personal,Analytics & experiments; Backend & infrastructure,en,0
+Ilija Eftimov,https://ieftimov.com/,https://ieftimov.com/index.xml,personal,Personal,Backend & infrastructure; Management & culture,en,0
+Ilya Grigorik,https://ilya.grigorik.com/,https://ilya.grigorik.com/essays/rss/,personal,Personal,Management & culture,en,0
+inFERENCe (Ferenc Huszár),https://www.inference.vc/,https://www.inference.vc/rss/,personal,Personal,Analytics & experiments; ML & AI,en,0
+Itamar Turner-Trauring,https://codewithoutrules.com,https://codewithoutrules.com/atom.xml,personal,Personal,Management & culture,en,0
+Jacopo Tarantino,https://jack.ofspades.com/,https://jack.ofspades.com/rss/index.html,personal,Personal,Frontend & mobile; Management & culture,en,0
+Jake Trent,https://jaketrent.com,https://jaketrent.com/post/feed.xml,personal,Personal,Frontend & mobile,en,0
+Jake Wharton,https://jakewharton.com/blog/,https://jakewharton.com/atom.xml,personal,Personal,Backend & infrastructure; Frontend & mobile,en,0
+Jake Yesbeck,https://jakeyesbeck.com/,https://jakeyesbeck.com/atom.xml,personal,Personal,Backend & infrastructure,en,0
+James Hague,https://prog21.dadgum.com/,https://prog21.dadgum.com/atom.xml,personal,Personal,Backend & infrastructure,en,0
+Jamis Buck,http://weblog.jamisbuck.org/,http://feeds.feedburner.com/buckblog,personal,Personal,Backend & infrastructure,en,0
+Jan Lelis,https://idiosyncratic-ruby.com/,https://idiosyncratic-ruby.com/feed.xml,personal,Personal,Backend & infrastructure,en,0
+Jason McCreary,https://jasonmccreary.me,https://jasonmccreary.me/feed.xml,personal,Personal,Backend & infrastructure; Management & culture,en,0
+Jay Alammar,https://jalammar.github.io/,https://jalammar.github.io/feed.xml,personal,Personal,ML & AI,en,0
+Jay Fields,http://blog.jayfields.com,http://feeds.feedburner.com/jayfields/mjKQ,personal,Personal,Backend & infrastructure; Management & culture,en,0
+Jeff Atwood,https://blog.codinghorror.com/,https://blog.codinghorror.com/rss/,personal,Personal,Management & culture,en,0
+Jeff Preshing,https://preshing.com/,http://preshing.com/feed,personal,Personal,Backend & infrastructure,en,0
+Jeremy Jordan,https://www.jeremyjordan.me/,https://www.jeremyjordan.me/rss/,personal,Personal,ML & AI; Backend & infrastructure,en,0
+Jeremy Kun,https://www.jeremykun.com/,https://www.jeremykun.com/index.xml,personal,Personal,Backend & infrastructure; Security,en,0
+Jerry Gamblin,https://jerrygamblin.com/,https://jerrygamblin.com/feed/,personal,Personal,Data engineering; Security,en,0
+Jesal Gadhia,https://jes.al/,https://jes.al/atom.xml,personal,Personal,Product & design; Management & culture,en,0
+Jessie Frazelle,https://blog.jessfraz.com/,https://blog.jessfraz.com/index.xml,personal,Personal,Backend & infrastructure,en,0
+Joel Spolsky,https://www.joelonsoftware.com/,https://www.joelonsoftware.com/feed/,personal,Personal,Product & design; Management & culture,en,0
+.NET,https://devblogs.microsoft.com/dotnet/,https://devblogs.microsoft.com/dotnet/feed/,project,Open source,Backend & infrastructure; Frontend & mobile,en,0
+Android,https://android-developers.googleblog.com/,https://developer.android.com/static/blog/atom.xml,project,Open source,ML & AI; Frontend & mobile,en,0
+Blender,https://code.blender.org/,https://code.blender.org/feed/,project,Open source,Backend & infrastructure,en,0
+Bootstrap.com,https://blog.getbootstrap.com/,https://blog.getbootstrap.com/feed.xml,project,Open source,Frontend & mobile,en,0
+Crystal,https://crystal-lang.org/,,project,Open source,Backend & infrastructure,en,0
+Facebook AI Research,https://engineering.fb.com/category/ai-research/,https://engineering.fb.com/feed/,project,Open source,ML & AI; Backend & infrastructure,en,0
+FreshRSS,https://freshrss.org,https://github.com/FreshRSS/FreshRSS/releases.atom,project,Open source,Backend & infrastructure,en,0
+Go,https://go.dev/blog/,,project,Open source,Backend & infrastructure,en,0
+Hypriot,https://blog.hypriot.com/,https://blog.hypriot.com/index.xml,project,Open source,Backend & infrastructure,en,0
+IPFS,https://ipfs.io/blog/,https://blog.ipfs.tech/index.xml,project,Open source,Backend & infrastructure,en,0
+Kotlin,https://blog.jetbrains.com/kotlin/,https://blog.jetbrains.com/kotlin/feed/,project,Open source,Backend & infrastructure; Frontend & mobile,en,0
+Laravel,https://laravel-news.com/blog/,https://feed.laravel-news.com/,project,Open source,Backend & infrastructure,en,0
+Microsoft Edge,https://blogs.windows.com/msedgedev/,,project,Open source,Frontend & mobile; Security,en,0
+Microsoft Python Engineering,https://devblogs.microsoft.com/python/,https://devblogs.microsoft.com/python/feed/,project,Open source,Data engineering; Backend & infrastructure,en,0
+Mozilla Automation Team,https://planet.mozilla.org/ateam/,,project,Open source,Backend & infrastructure,en,0
+Mozilla Hacks,https://hacks.mozilla.org/,https://hacks.mozilla.org/feed/,project,Open source,Frontend & mobile; Security,en,0
+Mozilla Release Engineering,https://planet.mozilla.org/releng/,https://planet.mozilla.org/releng/atom.xml,project,Open source,Backend & infrastructure,en,0
+PyTorch,https://medium.com/pytorch,,project,Dev media,ML & AI,en,0
+React Native,https://reactnative.dev/blog,https://reactnative.dev/blog/rss.xml,project,Open source,Frontend & mobile,en,0
+ReactJS News,https://reactjsnews.com,https://reactjsnews.com/feed.xml,project,Open source,Frontend & mobile,en,0
+RocksDB,https://rocksdb.org/blog/,https://rocksdb.org/feed.xml,project,Open source,Backend & infrastructure,en,0
+Rust,https://blog.rust-lang.org/,https://blog.rust-lang.org/feed.xml,project,Open source,Backend & infrastructure,en,0
+Swift,https://www.swift.org/blog/,,project,Open source,Backend & infrastructure; Frontend & mobile,en,0
+TensorFlow,https://blog.tensorflow.org/,https://blog.tensorflow.org/feeds/posts/default,project,Dev media,ML & AI,en,0
+Berkeley AI Research (BAIR),https://bair.berkeley.edu/blog/,https://bair.berkeley.edu/blog/feed.xml,university,Academia,ML & AI; Data engineering,en,0
+Machine Learning at Berkeley,https://mlberkeley.substack.com/,https://mlberkeley.substack.com/feed,university,Academia,ML & AI,en,0
+MIT News: Machine Learning,https://news.mit.edu/topic/machine-learning,,university,Academia,ML & AI,en,0
+ML@CMU,https://blog.ml.cmu.edu/,https://blog.ml.cmu.edu/feed/,university,Academia,ML & AI,en,0
+Stanford DAWN,https://dawn.cs.stanford.edu/blog,,university,Academia,ML & AI; Data engineering,en,0
